@@ -56,6 +56,32 @@ Created an interactive sales analytics dashboard to monitor business KPIs, evalu
 
 Author
 
+## Project Results
+
+| KPI | Result |
+|---|---:|
+| Total Sales | ₹1,19,78,800 |
+| Total Orders | 240 |
+| Total Profit | ₹25,38,050 |
+| Profit Margin | 21.19% |
+
+## Regional Analysis – Mumbai
+
+| KPI | Result |
+|---|---:|
+| Orders | 62 |
+| Sales | ₹30,00,000 |
+| Profit | ₹7,06,300 |
+| Profit Margin | 21.72% |
+
+## Key Findings
+
+- Overall profit margin was 21.19%.
+- Mumbai contributed ₹30,00,000 in sales.
+- Mumbai recorded 62 orders.
+- Mumbai achieved a profit margin of 21.72%.
+- The dashboard supports regional sales and profitability analysis.
+
 Amol Borse
 
 Note
