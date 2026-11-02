@@ -1,5 +1,5 @@
 Sales Performance Analytics
-
+![Sales Dashboard Preview](Sales_Dashboard_preview.png)
 Project Overview
 
 This project analyses sales performance to understand revenue, profitability, order volume and regional business performance using Power BI.
