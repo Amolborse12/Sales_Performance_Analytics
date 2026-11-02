@@ -1,0 +1,1001 @@
+CustomerID,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,InternetService,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn,Tenure Group
+C0001,male,0,No,No,7,Yes,fiber optic,one year,No,electronic check,1535.29,10916.49,No,0-12 Months
+C0002,male,0,No,No,56,Yes,no,two year,No,electronic check,1070.85,59986.77,No,49-72 Months
+C0003,female,0,Yes,No,48,Yes,no,month-to-month,Yes,bank transfer,529.52,25411.7,No,25-48 Months
+C0004,female,0,Yes,No,32,Yes,fiber optic,month-to-month,Yes,bank transfer,1405.8,44861.43,Yes,25-48 Months
+C0005,male,1,Yes,No,32,Yes,fiber optic,two year,Yes,credit card,380.95,12282.12,No,25-48 Months
+C0006,female,0,No,No,62,Yes,fiber optic,month-to-month,Yes,credit card,1450.35,89921.35,Yes,49-72 Months
+C0007,female,0,No,No,7,Yes,dsl,one year,Yes,mailed check,1164.48,8069.03,No,0-12 Months
+C0008,male,0,No,Yes,51,Yes,fiber optic,month-to-month,Yes,credit card,421.66,21528.64,Yes,49-72 Months
+C0009,female,0,No,Yes,15,Yes,fiber optic,month-to-month,No,bank transfer,373.23,5396.52,Yes,13-24 Months
+C0010,male,0,No,No,7,Yes,dsl,one year,Yes,mailed check,1413.8,9700.36,No,0-12 Months
+C0011,female,0,Yes,Yes,38,No,dsl,month-to-month,No,credit card,704.05,26619.48,Yes,25-48 Months
+C0012,male,0,Yes,No,71,Yes,fiber optic,month-to-month,No,electronic check,1628.42,115659.76,Yes,49-72 Months
+C0013,female,0,No,Yes,53,Yes,dsl,one year,No,bank transfer,997.13,75853.74,No,49-72 Months
+C0014,female,0,No,No,55,Yes,dsl,one year,Yes,credit card,1332.19,73396.33,Yes,49-72 Months
+C0015,female,0,Yes,Yes,52,Yes,dsl,two year,No,bank transfer,681.84,35345.28,No,49-72 Months
+C0016,male,1,Yes,No,57,Yes,dsl,month-to-month,No,credit card,1348.86,76953.98,No,49-72 Months
+C0017,female,0,No,No,37,Yes,dsl,month-to-month,No,electronic check,1719.63,63612.65,Yes,25-48 Months
+C0018,female,0,No,Yes,10,Yes,fiber optic,two year,No,bank transfer,391.92,3806.03,No,0-12 Months
+C0019,female,0,No,Yes,61,Yes,dsl,month-to-month,No,credit card,755.55,46134.79,Yes,49-72 Months
+C0020,male,0,No,No,33,Yes,fiber optic,month-to-month,Yes,bank transfer,613.74,20245.5,No,25-48 Months
+C0021,male,0,No,No,37,Yes,no,month-to-month,No,credit card,759.54,28027.49,Yes,25-48 Months
+C0022,male,0,No,No,27,Yes,fiber optic,month-to-month,Yes,mailed check,1400.62,37821.78,Yes,25-48 Months
+C0023,female,0,Yes,No,14,No,dsl,two year,No,bank transfer,985.08,13775.58,No,13-24 Months
+C0024,female,0,Yes,No,67,Yes,fiber optic,one year,No,mailed check,1134.63,76001.77,No,49-72 Months
+C0025,male,0,No,Yes,57,Yes,dsl,one year,Yes,credit card,736.94,41956.07,No,49-72 Months
+C0026,male,1,Yes,No,47,Yes,fiber optic,month-to-month,No,electronic check,469.0,21886.41,No,25-48 Months
+C0027,female,0,Yes,No,29,Yes,no,month-to-month,Yes,mailed check,563.75,16357.72,No,25-48 Months
+C0028,female,0,No,Yes,60,Yes,no,month-to-month,Yes,electronic check,1482.5,88853.67,No,49-72 Months
+C0029,female,1,Yes,No,40,No,fiber optic,month-to-month,Yes,bank transfer,1183.75,47227.56,No,25-48 Months
+C0030,male,0,Yes,No,32,Yes,dsl,month-to-month,No,electronic check,835.88,26719.28,No,25-48 Months
+C0031,male,0,Yes,Yes,33,Yes,fiber optic,month-to-month,Yes,mailed check,1474.35,48741.63,No,25-48 Months
+C0032,male,1,Yes,Yes,17,Yes,fiber optic,month-to-month,No,credit card,349.91,5970.74,Yes,13-24 Months
+C0033,female,0,No,Yes,7,Yes,fiber optic,one year,Yes,mailed check,643.53,4440.97,No,0-12 Months
+C0034,female,0,No,Yes,40,Yes,fiber optic,one year,No,electronic check,606.66,28065.24,No,25-48 Months
+C0035,female,0,No,Yes,64,Yes,dsl,month-to-month,Yes,electronic check,1777.32,113824.78,Yes,49-72 Months
+C0036,male,0,No,No,5,Yes,dsl,month-to-month,Yes,electronic check,1344.45,6434.64,Yes,0-12 Months
+C0037,male,0,No,Yes,62,Yes,fiber optic,one year,No,credit card,1207.57,74965.02,No,49-72 Months
+C0038,female,0,Yes,No,60,Yes,dsl,one year,No,bank transfer,257.73,15238.92,No,49-72 Months
+C0039,female,0,Yes,No,20,Yes,dsl,month-to-month,No,credit card,535.68,10543.75,No,13-24 Months
+C0040,male,0,Yes,No,46,Yes,fiber optic,month-to-month,No,electronic check,1235.09,56752.43,No,25-48 Months
+C0041,female,1,Yes,No,12,Yes,no,two year,No,mailed check,738.56,9123.13,No,0-12 Months
+C0042,female,0,No,Yes,55,Yes,fiber optic,month-to-month,Yes,electronic check,1682.63,92745.94,No,49-72 Months
+C0043,male,0,Yes,Yes,51,Yes,fiber optic,month-to-month,Yes,mailed check,1435.32,73286.1,Yes,49-72 Months
+C0044,female,0,Yes,Yes,26,Yes,no,month-to-month,No,bank transfer,843.45,21972.49,No,25-48 Months
+C0045,female,0,Yes,No,5,No,dsl,month-to-month,No,credit card,1411.75,6835.28,Yes,0-12 Months
+C0046,female,0,Yes,No,70,Yes,fiber optic,month-to-month,No,mailed check,1761.88,123350.41,Yes,49-72 Months
+C0047,male,1,No,No,33,Yes,fiber optic,month-to-month,Yes,credit card,964.52,31763.25,Yes,25-48 Months
+C0048,female,0,Yes,No,65,No,dsl,one year,Yes,bank transfer,1245.92,80886.8,No,49-72 Months
+C0049,male,0,Yes,No,49,Yes,fiber optic,month-to-month,No,mailed check,1673.93,82041.15,Yes,49-72 Months
+C0050,female,0,Yes,Yes,57,Yes,fiber optic,month-to-month,No,credit card,635.45,36164.12,No,49-72 Months
+C0051,male,0,Yes,No,55,Yes,fiber optic,month-to-month,Yes,mailed check,1624.16,89433.12,No,49-72 Months
+C0052,female,0,No,Yes,15,Yes,dsl,month-to-month,No,electronic check,401.19,5785.54,No,13-24 Months
+C0053,female,0,Yes,No,27,No,dsl,month-to-month,Yes,credit card,1255.09,33896.43,No,25-48 Months
+C0054,male,0,Yes,No,34,Yes,no,month-to-month,No,credit card,1363.4,46250.11,No,25-48 Months
+C0055,male,0,Yes,Yes,36,No,dsl,month-to-month,Yes,electronic check,1202.64,43245.88,No,25-48 Months
+C0056,male,1,Yes,No,4,Yes,dsl,one year,No,credit card,997.13,4108.88,No,0-12 Months
+C0057,female,0,Yes,No,40,Yes,dsl,two year,No,credit card,1206.89,48141.52,No,25-48 Months
+C0058,female,0,No,Yes,12,Yes,fiber optic,month-to-month,Yes,credit card,485.08,5840.67,No,0-12 Months
+C0059,female,0,Yes,No,54,Yes,fiber optic,one year,No,mailed check,584.13,31517.54,No,49-72 Months
+C0060,male,0,Yes,No,50,Yes,fiber optic,two year,Yes,bank transfer,668.34,33337.73,No,49-72 Months
+C0061,male,1,Yes,Yes,67,Yes,dsl,two year,Yes,bank transfer,1176.56,78773.05,No,49-72 Months
+C0062,male,0,Yes,Yes,54,Yes,dsl,one year,Yes,bank transfer,934.95,50468.75,No,49-72 Months
+C0063,female,0,Yes,Yes,27,Yes,fiber optic,two year,No,bank transfer,628.94,16889.24,No,25-48 Months
+C0064,female,0,No,Yes,70,Yes,fiber optic,two year,No,bank transfer,1618.35,113285.35,No,49-72 Months
+C0065,male,1,Yes,No,30,No,fiber optic,one year,Yes,bank transfer,829.58,24854.02,Yes,25-48 Months
+C0066,male,0,No,No,24,Yes,fiber optic,month-to-month,Yes,bank transfer,941.35,22519.05,No,13-24 Months
+C0067,female,0,No,No,66,Yes,fiber optic,month-to-month,Yes,bank transfer,885.04,58603.42,Yes,49-72 Months
+C0068,female,0,Yes,No,27,Yes,dsl,month-to-month,No,electronic check,532.01,14414.1,No,25-48 Months
+C0069,male,0,No,No,6,Yes,fiber optic,month-to-month,Yes,electronic check,1384.02,8258.19,No,0-12 Months
+C0070,female,1,Yes,No,34,No,fiber optic,month-to-month,Yes,credit card,945.11,32151.24,Yes,25-48 Months
+C0071,male,0,No,No,58,Yes,dsl,month-to-month,Yes,credit card,275.2,15838.38,No,49-72 Months
+C0072,male,0,Yes,Yes,14,Yes,fiber optic,one year,Yes,bank transfer,1744.22,24366.67,No,13-24 Months
+C0073,male,0,Yes,No,34,Yes,fiber optic,one year,No,electronic check,1514.43,51452.21,No,25-48 Months
+C0074,female,1,Yes,No,10,Yes,fiber optic,two year,No,credit card,1371.52,13565.58,Yes,0-12 Months
+C0075,female,0,No,No,50,No,no,unknown,Yes,electronic check,1497.09,74900.98,Yes,49-72 Months
+C0076,male,0,No,No,35,Yes,fiber optic,month-to-month,No,mailed check,1655.55,57883.58,Yes,25-48 Months
+C0077,female,1,Yes,Yes,24,Yes,no,one year,No,mailed check,673.11,16111.98,No,13-24 Months
+C0078,female,0,No,No,17,Yes,fiber optic,two year,Yes,electronic check,1196.99,20280.58,No,13-24 Months
+C0079,female,1,No,Yes,41,No,no,two year,Yes,credit card,1093.65,45194.74,No,25-48 Months
+C0080,female,0,No,No,49,No,dsl,two year,Yes,bank transfer,664.31,32471.68,No,49-72 Months
+C0081,male,0,Yes,No,68,Yes,fiber optic,two year,No,mailed check,594.03,40145.8,No,49-72 Months
+C0082,male,0,No,No,32,Yes,fiber optic,month-to-month,Yes,bank transfer,426.56,13457.93,Yes,25-48 Months
+C0083,male,0,Yes,No,12,Yes,dsl,month-to-month,Yes,electronic check,1271.94,15354.4,No,0-12 Months
+C0084,male,0,Yes,Yes,60,Yes,fiber optic,month-to-month,Yes,mailed check,1460.42,87785.57,Yes,49-72 Months
+C0085,male,0,Yes,No,46,Yes,no,one year,No,bank transfer,1329.48,61074.26,No,25-48 Months
+C0086,male,1,No,No,51,Yes,fiber optic,two year,Yes,mailed check,740.23,37905.2,No,49-72 Months
+C0087,female,0,No,No,8,No,dsl,month-to-month,No,credit card,568.15,4634.19,Yes,0-12 Months
+C0088,male,0,No,Yes,23,Yes,dsl,one year,No,electronic check,953.1,21898.56,No,13-24 Months
+C0089,male,0,No,Yes,56,Yes,dsl,month-to-month,Yes,electronic check,1097.56,28065.24,Yes,49-72 Months
+C0090,male,0,Yes,No,60,Yes,dsl,month-to-month,Yes,bank transfer,1674.59,100497.1,Yes,49-72 Months
+C0091,male,0,Yes,No,32,Yes,no,month-to-month,Yes,credit card,1505.98,48296.65,Yes,25-48 Months
+C0092,female,0,No,No,58,Yes,fiber optic,month-to-month,Yes,mailed check,1669.89,96901.3,No,49-72 Months
+C0093,female,0,No,No,61,Yes,dsl,two year,Yes,electronic check,1567.91,95561.29,No,49-72 Months
+C0094,male,0,Yes,No,28,No,fiber optic,month-to-month,Yes,credit card,1745.1,48841.9,Yes,25-48 Months
+C0095,female,0,Yes,No,65,Yes,dsl,two year,Yes,mailed check,971.52,63386.55,No,49-72 Months
+C0096,female,0,No,Yes,21,Yes,dsl,one year,Yes,electronic check,323.58,6825.33,No,13-24 Months
+C0097,female,1,Yes,No,18,Yes,fiber optic,month-to-month,Yes,bank transfer,379.52,6935.68,No,13-24 Months
+C0098,male,0,No,No,50,Yes,fiber optic,month-to-month,No,mailed check,854.93,42811.29,No,49-72 Months
+C0099,female,0,No,Yes,46,Yes,no,two year,No,credit card,549.41,25305.66,No,25-48 Months
+C0100,female,0,Yes,Yes,11,No,fiber optic,month-to-month,Yes,mailed check,513.41,5660.55,No,0-12 Months
+C0101,female,0,Yes,No,60,Yes,fiber optic,two year,Yes,bank transfer,1727.47,103755.89,No,49-72 Months
+C0102,male,0,No,Yes,15,Yes,fiber optic,month-to-month,Yes,bank transfer,552.9,8379.74,No,13-24 Months
+C0103,female,1,Yes,No,58,Yes,no,one year,Yes,electronic check,1637.04,94979.99,No,49-72 Months
+C0104,male,1,Yes,Yes,1,Yes,fiber optic,two year,No,mailed check,1429.3,1346.05,No,0-12 Months
+C0105,male,0,Yes,Yes,58,Yes,no,month-to-month,Yes,electronic check,1143.47,66367.53,No,49-72 Months
+C0106,female,0,No,Yes,57,Yes,fiber optic,month-to-month,No,bank transfer,1297.83,73968.27,Yes,49-72 Months
+C0107,female,0,No,No,57,Yes,no,two year,No,credit card,663.79,37799.04,No,49-72 Months
+C0108,male,0,Yes,No,48,Yes,dsl,month-to-month,No,credit card,1251.96,60415.53,No,25-48 Months
+C0109,female,0,No,No,34,Yes,fiber optic,month-to-month,Yes,mailed check,539.37,18153.89,No,25-48 Months
+C0110,female,0,Yes,Yes,51,Yes,fiber optic,month-to-month,No,mailed check,1703.44,86990.46,No,49-72 Months
+C0111,female,0,Yes,No,20,Yes,fiber optic,month-to-month,Yes,bank transfer,717.78,14252.08,Yes,13-24 Months
+C0112,male,0,Yes,No,57,Yes,fiber optic,one year,No,bank transfer,645.54,36811.52,No,49-72 Months
+C0113,male,0,Yes,No,41,No,no,one year,No,credit card,1252.3,51652.53,No,25-48 Months
+C0114,female,0,No,No,34,Yes,no,month-to-month,No,electronic check,1167.5,39579.52,No,25-48 Months
+C0115,female,0,No,No,37,Yes,dsl,two year,Yes,electronic check,949.51,35045.01,No,25-48 Months
+C0116,female,0,Yes,No,41,No,fiber optic,month-to-month,No,mailed check,1230.29,50439.79,Yes,25-48 Months
+C0117,female,0,No,No,3,Yes,fiber optic,month-to-month,Yes,mailed check,497.21,1389.96,Yes,0-12 Months
+C0118,female,0,No,No,11,Yes,dsl,one year,Yes,mailed check,1293.66,14336.35,No,0-12 Months
+C0119,female,0,No,Yes,18,Yes,dsl,two year,Yes,credit card,669.45,11985.96,No,13-24 Months
+C0120,male,0,Yes,No,9,Yes,dsl,month-to-month,No,electronic check,672.9,6134.58,Yes,0-12 Months
+C0121,female,0,Yes,No,32,Yes,fiber optic,month-to-month,No,electronic check,501.38,15884.66,No,25-48 Months
+C0122,male,0,Yes,Yes,49,Yes,fiber optic,month-to-month,No,bank transfer,765.18,37277.0,No,49-72 Months
+C0123,female,0,Yes,No,48,Yes,no,two year,No,bank transfer,663.44,31817.64,No,25-48 Months
+C0124,male,0,Yes,No,34,Yes,fiber optic,month-to-month,No,bank transfer,953.98,32247.1,Yes,25-48 Months
+C0125,female,0,Yes,Yes,62,No,no,month-to-month,Yes,electronic check,445.15,27781.49,No,49-72 Months
+C0126,male,0,Yes,No,41,Yes,fiber optic,one year,Yes,bank transfer,549.16,22331.98,Yes,25-48 Months
+C0127,male,0,No,No,6,Yes,fiber optic,month-to-month,Yes,electronic check,1089.69,6413.62,Yes,0-12 Months
+C0128,male,0,No,No,56,Yes,dsl,month-to-month,No,bank transfer,449.76,25236.19,No,49-72 Months
+C0129,male,0,No,No,42,Yes,fiber optic,month-to-month,Yes,bank transfer,1317.79,55276.82,No,25-48 Months
+C0130,female,0,Yes,No,46,Yes,fiber optic,month-to-month,Yes,bank transfer,1713.12,78621.31,No,25-48 Months
+C0131,male,0,No,No,41,Yes,no,month-to-month,Yes,mailed check,811.53,33517.53,No,25-48 Months
+C0132,female,0,No,No,40,No,fiber optic,two year,No,mailed check,1646.71,65748.2,No,25-48 Months
+C0133,female,0,No,Yes,7,Yes,dsl,one year,Yes,mailed check,402.39,2793.18,No,0-12 Months
+C0134,female,0,No,No,41,Yes,fiber optic,one year,Yes,electronic check,316.58,12954.68,No,25-48 Months
+C0135,male,0,No,No,58,Yes,dsl,two year,Yes,bank transfer,1368.12,79436.2,No,49-72 Months
+C0136,male,0,No,No,22,Yes,dsl,month-to-month,No,electronic check,1429.58,31506.24,Yes,13-24 Months
+C0137,male,0,No,Yes,44,Yes,fiber optic,month-to-month,No,mailed check,1556.74,68397.34,No,25-48 Months
+C0138,male,0,No,Yes,3,Yes,fiber optic,two year,No,bank transfer,338.07,975.11,No,0-12 Months
+C0139,male,0,No,No,26,Yes,fiber optic,month-to-month,Yes,electronic check,1454.21,37782.23,No,25-48 Months
+C0140,female,0,No,Yes,32,Yes,no,one year,Yes,credit card,733.64,23566.36,No,25-48 Months
+C0141,male,0,Yes,No,71,Yes,fiber optic,one year,No,mailed check,720.17,50991.87,No,49-72 Months
+C0142,male,0,No,No,16,Yes,fiber optic,month-to-month,Yes,electronic check,518.19,8533.21,Yes,13-24 Months
+C0143,male,0,Yes,No,20,Yes,dsl,month-to-month,Yes,bank transfer,1793.82,35785.3,Yes,13-24 Months
+C0144,male,0,No,Yes,30,Yes,dsl,month-to-month,Yes,bank transfer,348.68,10459.35,No,25-48 Months
+C0145,male,0,No,No,72,Yes,fiber optic,month-to-month,No,bank transfer,1531.86,110154.72,Yes,49-72 Months
+C0146,male,0,No,No,62,Yes,no,month-to-month,No,credit card,1141.22,70599.86,Yes,49-72 Months
+C0147,female,0,Yes,No,3,Yes,dsl,month-to-month,Yes,mailed check,1389.37,4063.18,Yes,0-12 Months
+C0148,female,0,No,No,17,Yes,fiber optic,one year,No,credit card,1353.16,22887.26,No,13-24 Months
+C0149,female,0,Yes,No,60,Yes,fiber optic,two year,Yes,mailed check,1580.57,94784.49,No,49-72 Months
+C0150,female,0,Yes,No,5,Yes,dsl,two year,No,bank transfer,534.88,2556.92,No,0-12 Months
+C0151,female,1,Yes,No,62,Yes,fiber optic,month-to-month,No,electronic check,251.28,15662.83,Yes,49-72 Months
+C0152,male,0,No,No,21,Yes,no,month-to-month,Yes,bank transfer,1077.72,22538.16,No,13-24 Months
+C0153,male,0,Yes,No,67,Yes,fiber optic,month-to-month,Yes,mailed check,798.48,53390.9,No,49-72 Months
+C0154,male,0,Yes,No,22,Yes,dsl,month-to-month,No,bank transfer,441.87,9673.98,No,13-24 Months
+C0155,male,0,No,No,32,Yes,no,two year,Yes,credit card,438.52,14151.78,No,25-48 Months
+C0156,male,0,No,No,48,No,dsl,month-to-month,No,credit card,764.21,36707.87,Yes,25-48 Months
+C0157,male,1,Yes,No,10,Yes,no,month-to-month,No,credit card,258.86,2576.64,No,0-12 Months
+C0158,male,0,No,No,41,Yes,dsl,two year,Yes,electronic check,338.22,13695.05,No,25-48 Months
+C0159,female,0,Yes,Yes,37,Yes,fiber optic,month-to-month,No,electronic check,1669.84,61646.95,Yes,25-48 Months
+C0160,female,0,No,Yes,57,Yes,fiber optic,month-to-month,Yes,credit card,733.76,41670.91,Yes,49-72 Months
+C0161,female,0,Yes,No,72,Yes,dsl,month-to-month,No,mailed check,1772.46,127773.94,No,49-72 Months
+C0162,male,0,No,No,48,Yes,no,one year,Yes,electronic check,1644.77,79012.63,No,25-48 Months
+C0163,male,0,No,No,30,Yes,dsl,one year,No,mailed check,470.99,14026.31,No,25-48 Months
+C0164,female,0,No,No,30,Yes,dsl,month-to-month,Yes,credit card,1358.13,40676.18,Yes,25-48 Months
+C0165,male,0,No,No,31,Yes,dsl,two year,No,mailed check,1181.25,36519.72,No,25-48 Months
+C0166,male,0,No,No,59,Yes,fiber optic,two year,Yes,electronic check,1320.5,77803.2,No,49-72 Months
+C0167,male,0,Yes,No,24,Yes,fiber optic,two year,No,bank transfer,399.1,9633.64,Yes,13-24 Months
+C0168,male,1,Yes,Yes,13,No,no,month-to-month,Yes,electronic check,442.27,5715.01,Yes,13-24 Months
+C0169,female,0,Yes,No,25,Yes,dsl,month-to-month,No,mailed check,368.79,9469.49,No,25-48 Months
+C0170,female,0,Yes,Yes,2,Yes,fiber optic,two year,Yes,electronic check,1186.41,2522.86,No,0-12 Months
+C0171,male,0,No,No,8,No,dsl,month-to-month,Yes,bank transfer,1779.22,14390.9,No,0-12 Months
+C0172,male,1,Yes,No,7,Yes,fiber optic,one year,Yes,mailed check,1291.58,9121.62,No,0-12 Months
+C0173,female,0,No,No,56,Yes,no,one year,No,credit card,1251.68,70043.36,No,49-72 Months
+C0174,female,0,Yes,No,53,Yes,fiber optic,month-to-month,Yes,mailed check,1776.11,94205.56,Yes,49-72 Months
+C0175,female,0,Yes,No,51,Yes,fiber optic,one year,No,electronic check,1300.92,66305.06,No,49-72 Months
+C0176,male,1,No,Yes,34,Yes,fiber optic,two year,No,electronic check,312.28,10813.15,No,25-48 Months
+C0177,female,0,No,Yes,52,Yes,no,one year,Yes,electronic check,1493.86,77729.23,No,49-72 Months
+C0178,female,0,No,No,12,Yes,fiber optic,month-to-month,No,mailed check,815.25,9814.48,No,0-12 Months
+C0179,female,0,Yes,No,65,Yes,dsl,two year,No,electronic check,256.76,16704.65,No,49-72 Months
+C0180,male,0,No,No,37,Yes,fiber optic,month-to-month,Yes,mailed check,1036.21,38548.6,No,25-48 Months
+C0181,female,1,No,Yes,68,Yes,dsl,one year,No,credit card,1702.37,115589.11,No,49-72 Months
+C0182,male,0,Yes,No,11,Yes,dsl,two year,No,credit card,648.86,7358.05,No,0-12 Months
+C0183,male,0,No,No,36,Yes,dsl,one year,Yes,bank transfer,1011.85,36404.26,No,25-48 Months
+C0184,female,0,No,No,51,Yes,fiber optic,month-to-month,No,credit card,519.35,26318.11,No,49-72 Months
+C0185,female,0,Yes,Yes,36,Yes,fiber optic,month-to-month,Yes,credit card,339.42,12128.85,No,25-48 Months
+C0186,male,0,Yes,No,33,No,dsl,month-to-month,Yes,bank transfer,374.84,12171.62,No,25-48 Months
+C0187,male,0,Yes,Yes,12,Yes,fiber optic,month-to-month,No,credit card,1376.87,16600.88,Yes,0-12 Months
+C0188,male,0,No,No,28,Yes,no,month-to-month,Yes,electronic check,1489.32,41576.36,Yes,25-48 Months
+C0189,male,0,No,Yes,18,Yes,fiber optic,one year,Yes,credit card,472.11,8518.22,Yes,13-24 Months
+C0190,female,1,No,No,22,Yes,fiber optic,month-to-month,Yes,mailed check,696.89,15467.69,No,13-24 Months
+C0191,male,0,No,No,50,Yes,dsl,one year,No,unknown,552.3,27534.36,Yes,49-72 Months
+C0192,female,0,Yes,Yes,46,Yes,no,two year,No,credit card,191.63,8782.81,No,25-48 Months
+C0193,male,0,No,No,44,Yes,dsl,month-to-month,No,mailed check,1107.82,48587.68,No,25-48 Months
+C0194,female,1,Yes,No,27,No,dsl,one year,Yes,electronic check,1334.88,35995.16,No,25-48 Months
+C0195,female,0,No,No,70,No,no,one year,Yes,mailed check,1154.21,81103.58,No,49-72 Months
+C0196,female,0,Yes,No,7,Yes,fiber optic,month-to-month,Yes,mailed check,851.48,6053.71,Yes,0-12 Months
+C0197,female,0,Yes,Yes,25,Yes,fiber optic,month-to-month,Yes,credit card,1110.27,27724.98,Yes,25-48 Months
+C0198,female,1,Yes,No,9,Yes,fiber optic,one year,No,credit card,395.85,3489.25,No,0-12 Months
+C0199,female,1,Yes,No,25,Yes,fiber optic,two year,Yes,bank transfer,489.17,12224.13,No,25-48 Months
+C0200,female,0,Yes,No,70,Yes,dsl,one year,No,credit card,1694.28,118615.21,Yes,49-72 Months
+C0201,male,0,No,No,27,Yes,dsl,two year,Yes,mailed check,1430.34,38568.89,No,25-48 Months
+C0202,female,0,Yes,No,66,No,dsl,two year,Yes,mailed check,997.13,110960.11,No,49-72 Months
+C0203,female,0,No,Yes,36,Yes,dsl,month-to-month,No,credit card,1670.85,60036.19,Yes,25-48 Months
+C0204,male,0,Yes,No,51,Yes,no,one year,No,bank transfer,1156.56,58869.55,No,49-72 Months
+C0205,female,0,No,No,33,Yes,dsl,month-to-month,Yes,bank transfer,1688.77,55773.83,No,25-48 Months
+C0206,male,0,Yes,No,20,Yes,fiber optic,two year,Yes,mailed check,895.89,17777.56,No,13-24 Months
+C0207,female,1,Yes,No,56,Yes,fiber optic,month-to-month,Yes,bank transfer,255.61,14401.64,Yes,49-72 Months
+C0208,female,0,Yes,Yes,70,Yes,fiber optic,month-to-month,No,credit card,346.99,24287.59,Yes,49-72 Months
+C0209,female,0,No,Yes,19,Yes,fiber optic,two year,No,mailed check,419.71,7755.14,No,13-24 Months
+C0210,female,0,No,No,57,No,fiber optic,month-to-month,No,electronic check,397.8,22687.74,Yes,49-72 Months
+C0211,male,0,Yes,No,19,Yes,no,one year,No,electronic check,695.14,13005.44,No,13-24 Months
+C0212,male,0,Yes,No,52,No,fiber optic,month-to-month,No,electronic check,1336.97,69605.64,Yes,49-72 Months
+C0213,female,1,No,No,57,Yes,fiber optic,two year,Yes,mailed check,1475.51,84074.22,No,49-72 Months
+C0214,male,0,No,No,33,Yes,no,two year,Yes,bank transfer,1064.83,35361.52,No,25-48 Months
+C0215,female,0,Yes,No,54,Yes,fiber optic,month-to-month,No,credit card,476.98,25885.48,No,49-72 Months
+C0216,male,0,Yes,Yes,20,Yes,dsl,one year,Yes,electronic check,1409.25,28057.72,Yes,13-24 Months
+C0217,female,0,No,No,6,Yes,fiber optic,month-to-month,Yes,credit card,799.94,4557.15,No,0-12 Months
+C0218,female,1,Yes,No,7,Yes,dsl,one year,No,bank transfer,270.14,1800.37,Yes,0-12 Months
+C0219,female,0,Yes,Yes,33,Yes,fiber optic,one year,No,electronic check,684.91,22455.48,No,25-48 Months
+C0220,female,0,Yes,Yes,65,Yes,no,two year,Yes,mailed check,662.43,43277.04,No,49-72 Months
+C0221,male,0,Yes,Yes,10,Yes,fiber optic,month-to-month,No,mailed check,675.08,6749.56,Yes,0-12 Months
+C0222,male,0,No,Yes,33,Yes,fiber optic,month-to-month,No,credit card,1508.4,49889.21,Yes,25-48 Months
+C0223,male,0,Yes,No,51,Yes,dsl,one year,Yes,credit card,1427.89,72788.19,No,49-72 Months
+C0224,female,1,Yes,Yes,15,No,no,one year,Yes,credit card,1228.11,18400.09,No,13-24 Months
+C0225,female,0,Yes,No,52,Yes,dsl,month-to-month,No,bank transfer,465.46,24200.0,Yes,49-72 Months
+C0226,female,1,No,Yes,23,Yes,dsl,month-to-month,Yes,mailed check,1502.14,34682.0,No,13-24 Months
+C0227,male,0,Yes,Yes,59,Yes,dsl,month-to-month,No,mailed check,1299.62,76714.97,No,49-72 Months
+C0228,female,0,Yes,No,42,Yes,dsl,two year,Yes,credit card,552.0,23057.12,No,25-48 Months
+C0229,male,1,Yes,Yes,40,No,fiber optic,month-to-month,Yes,electronic check,1254.55,50376.7,Yes,25-48 Months
+C0230,male,0,No,No,13,Yes,fiber optic,month-to-month,Yes,mailed check,999.44,12957.58,Yes,13-24 Months
+C0231,male,0,No,No,34,Yes,dsl,two year,Yes,electronic check,930.99,31599.0,No,25-48 Months
+C0232,female,1,Yes,Yes,62,Yes,dsl,month-to-month,No,mailed check,423.79,25935.44,Yes,49-72 Months
+C0233,male,0,Yes,Yes,2,No,dsl,one year,Yes,mailed check,1053.37,2182.87,No,0-12 Months
+C0234,female,1,Yes,No,55,Yes,fiber optic,month-to-month,Yes,electronic check,404.89,22281.07,No,49-72 Months
+C0235,female,0,Yes,No,36,Yes,dsl,two year,Yes,mailed check,504.59,18177.23,No,25-48 Months
+C0236,female,1,No,No,52,Yes,fiber optic,one year,No,credit card,455.45,23635.06,No,49-72 Months
+C0237,female,0,No,No,48,No,dsl,two year,No,bank transfer,1728.87,82916.73,No,25-48 Months
+C0238,male,0,Yes,No,32,Yes,dsl,month-to-month,No,credit card,691.54,22084.93,No,25-48 Months
+C0239,male,1,Yes,No,23,Yes,fiber optic,month-to-month,No,credit card,800.57,18468.69,No,13-24 Months
+C0240,female,0,Yes,No,46,Yes,fiber optic,one year,No,credit card,749.22,34540.81,No,25-48 Months
+C0241,female,0,No,No,11,Yes,dsl,month-to-month,No,mailed check,1642.29,18037.47,No,0-12 Months
+C0242,female,0,No,Yes,43,No,dsl,month-to-month,No,credit card,1122.6,48385.67,No,25-48 Months
+C0243,female,0,Yes,No,7,No,no,month-to-month,Yes,credit card,1574.7,11013.42,Yes,0-12 Months
+C0244,male,1,Yes,No,47,Yes,dsl,two year,No,credit card,714.88,33538.85,No,25-48 Months
+C0245,male,0,Yes,No,46,No,fiber optic,one year,No,mailed check,427.99,19711.35,No,25-48 Months
+C0246,male,0,Yes,No,7,Yes,fiber optic,one year,No,electronic check,1112.14,7621.85,Yes,0-12 Months
+C0247,male,0,Yes,No,55,Yes,dsl,one year,No,bank transfer,785.58,43234.83,No,49-72 Months
+C0248,female,1,Yes,Yes,30,Yes,fiber optic,month-to-month,Yes,credit card,1492.96,44603.74,Yes,25-48 Months
+C0249,female,1,No,No,57,Yes,fiber optic,month-to-month,Yes,credit card,1613.11,91823.94,Yes,49-72 Months
+C0250,female,1,Yes,No,3,Yes,fiber optic,month-to-month,No,bank transfer,982.49,2705.23,No,0-12 Months
+C0251,female,0,Yes,No,13,Yes,fiber optic,one year,Yes,electronic check,1755.61,22801.92,No,13-24 Months
+C0252,male,0,No,No,36,Yes,dsl,month-to-month,No,mailed check,1107.17,40051.28,Yes,25-48 Months
+C0253,female,0,No,No,14,Yes,dsl,two year,No,bank transfer,669.93,9364.97,No,13-24 Months
+C0254,male,0,No,No,24,Yes,fiber optic,two year,Yes,bank transfer,1007.91,24267.07,No,13-24 Months
+C0255,male,0,No,No,48,Yes,fiber optic,month-to-month,Yes,mailed check,307.83,15058.12,No,25-48 Months
+C0256,male,0,No,Yes,11,Yes,dsl,one year,No,mailed check,1496.2,16506.69,Yes,0-12 Months
+C0257,female,0,Yes,No,49,Yes,dsl,month-to-month,Yes,electronic check,407.22,19861.95,Yes,49-72 Months
+C0258,female,0,Yes,No,8,Yes,no,two year,Yes,mailed check,628.56,4953.17,No,0-12 Months
+C0259,female,0,Yes,No,13,Yes,dsl,two year,Yes,bank transfer,1126.24,14641.2,No,13-24 Months
+C0260,female,0,No,Yes,43,Yes,fiber optic,two year,No,electronic check,316.61,13538.28,No,25-48 Months
+C0261,male,0,No,No,58,Yes,fiber optic,month-to-month,Yes,credit card,372.94,21563.55,No,49-72 Months
+C0262,male,1,No,No,13,Yes,dsl,month-to-month,Yes,electronic check,1328.98,17394.97,No,13-24 Months
+C0263,female,0,No,No,22,Yes,dsl,month-to-month,Yes,bank transfer,361.25,8070.64,Yes,13-24 Months
+C0264,male,1,Yes,Yes,67,No,dsl,month-to-month,No,mailed check,989.48,66097.53,No,49-72 Months
+C0265,female,0,No,No,72,Yes,no,month-to-month,Yes,credit card,674.98,48500.38,No,49-72 Months
+C0266,male,0,No,Yes,42,No,dsl,month-to-month,Yes,credit card,603.52,25292.16,No,25-48 Months
+C0267,male,0,No,No,33,No,dsl,two year,Yes,bank transfer,542.61,17978.02,No,25-48 Months
+C0268,male,0,No,No,25,Yes,dsl,month-to-month,No,bank transfer,1433.29,35969.42,No,25-48 Months
+C0269,male,0,Yes,No,45,Yes,dsl,month-to-month,Yes,bank transfer,1724.89,77944.29,No,25-48 Months
+C0270,female,0,No,No,43,Yes,fiber optic,two year,Yes,bank transfer,467.28,20037.16,No,25-48 Months
+C0271,female,0,Yes,No,22,Yes,dsl,one year,Yes,electronic check,1737.51,38175.33,No,13-24 Months
+C0272,female,1,Yes,No,2,Yes,fiber optic,one year,No,mailed check,1171.88,2414.39,No,0-12 Months
+C0273,female,0,Yes,Yes,11,No,fiber optic,one year,Yes,electronic check,1244.57,13608.4,No,0-12 Months
+C0274,male,0,Yes,Yes,70,Yes,fiber optic,two year,Yes,mailed check,1350.39,94510.38,No,49-72 Months
+C0275,male,0,No,No,31,Yes,dsl,one year,No,bank transfer,1341.38,41532.98,No,25-48 Months
+C0276,male,0,No,No,35,Yes,no,month-to-month,No,electronic check,1420.71,49410.25,Yes,25-48 Months
+C0277,female,0,Yes,No,34,Yes,fiber optic,one year,No,electronic check,999.38,33993.71,No,25-48 Months
+C0278,male,0,No,No,57,Yes,dsl,month-to-month,Yes,credit card,1076.71,61350.59,No,49-72 Months
+C0279,male,0,Yes,No,5,No,fiber optic,month-to-month,No,mailed check,751.93,3912.2,Yes,0-12 Months
+C0280,female,0,Yes,No,6,Yes,no,month-to-month,Yes,electronic check,313.15,1879.56,No,0-12 Months
+C0281,female,1,No,No,20,Yes,dsl,month-to-month,No,bank transfer,1280.19,25453.23,Yes,13-24 Months
+C0282,female,1,Yes,Yes,36,Yes,no,one year,Yes,bank transfer,202.1,7244.63,No,25-48 Months
+C0283,male,0,No,Yes,49,Yes,fiber optic,month-to-month,Yes,credit card,677.23,32933.34,No,49-72 Months
+C0284,female,1,No,Yes,36,Yes,fiber optic,month-to-month,No,credit card,396.06,14112.85,Yes,25-48 Months
+C0285,female,0,No,No,32,Yes,no,month-to-month,No,credit card,445.63,14336.42,No,25-48 Months
+C0286,male,0,Yes,No,68,Yes,fiber optic,two year,Yes,bank transfer,1240.03,84292.36,No,49-72 Months
+C0287,female,1,No,No,12,Yes,fiber optic,month-to-month,Yes,mailed check,1224.14,14800.38,No,0-12 Months
+C0288,female,0,Yes,Yes,42,No,dsl,one year,No,credit card,902.64,37674.85,No,25-48 Months
+C0289,male,0,No,No,40,Yes,fiber optic,two year,No,mailed check,389.77,15561.7,No,25-48 Months
+C0290,male,0,No,Yes,35,Yes,fiber optic,month-to-month,Yes,mailed check,921.73,32203.49,No,25-48 Months
+C0291,male,0,Yes,No,59,Yes,dsl,one year,No,credit card,796.75,47122.95,Yes,49-72 Months
+C0292,female,0,Yes,Yes,20,No,fiber optic,month-to-month,No,credit card,1366.71,27414.93,Yes,13-24 Months
+C0293,male,0,Yes,No,69,Yes,dsl,month-to-month,Yes,mailed check,1147.49,79253.88,Yes,49-72 Months
+C0294,female,0,Yes,Yes,24,Yes,dsl,one year,Yes,bank transfer,1011.93,24471.29,No,13-24 Months
+C0295,female,0,Yes,No,40,Yes,dsl,two year,Yes,credit card,1004.82,40148.63,No,25-48 Months
+C0296,male,0,Yes,No,38,Yes,dsl,month-to-month,Yes,credit card,1747.76,66575.09,No,25-48 Months
+C0297,female,0,No,No,62,Yes,dsl,one year,Yes,electronic check,1422.26,88054.82,No,49-72 Months
+C0298,female,1,No,Yes,32,Yes,dsl,month-to-month,Yes,bank transfer,1020.32,32520.53,No,25-48 Months
+C0299,female,0,Yes,No,21,Yes,fiber optic,one year,Yes,electronic check,992.8,20939.13,No,13-24 Months
+C0300,male,0,Yes,No,2,Yes,fiber optic,one year,Yes,credit card,291.04,401.51,No,0-12 Months
+C0301,male,0,No,No,27,Yes,fiber optic,one year,Yes,electronic check,1710.89,46262.76,No,25-48 Months
+C0302,female,0,No,No,60,Yes,dsl,one year,Yes,credit card,744.72,44695.36,No,49-72 Months
+C0303,male,0,No,No,1,Yes,no,month-to-month,Yes,electronic check,546.71,675.33,No,0-12 Months
+C0304,male,0,No,No,65,Yes,fiber optic,one year,Yes,mailed check,1799.08,116933.07,No,49-72 Months
+C0305,female,0,No,No,40,Yes,dsl,one year,No,electronic check,1363.97,54565.53,Yes,25-48 Months
+C0306,male,0,No,No,11,Yes,dsl,one year,No,credit card,323.41,3618.62,Yes,0-12 Months
+C0307,female,0,No,Yes,22,Yes,fiber optic,month-to-month,Yes,mailed check,345.92,7530.72,No,13-24 Months
+C0308,male,0,No,No,40,Yes,dsl,month-to-month,No,bank transfer,289.53,11496.46,No,25-48 Months
+C0309,male,0,Yes,Yes,23,Yes,fiber optic,month-to-month,No,electronic check,1179.41,27183.36,No,13-24 Months
+C0310,male,0,No,No,8,No,no,month-to-month,Yes,mailed check,260.92,2083.85,No,0-12 Months
+C0311,male,0,No,No,48,Yes,dsl,month-to-month,Yes,credit card,1696.75,28065.24,No,25-48 Months
+C0312,male,0,Yes,Yes,49,Yes,dsl,month-to-month,No,credit card,1702.21,83398.36,No,49-72 Months
+C0313,male,0,Yes,No,9,Yes,no,one year,No,electronic check,996.38,9158.77,Yes,0-12 Months
+C0314,male,0,No,No,21,Yes,fiber optic,month-to-month,Yes,mailed check,1205.79,25268.43,No,13-24 Months
+C0315,female,0,No,No,18,Yes,dsl,two year,Yes,mailed check,702.44,12587.28,Yes,13-24 Months
+C0316,female,0,No,Yes,48,Yes,no,month-to-month,Yes,bank transfer,249.16,11754.79,No,25-48 Months
+C0317,male,0,No,No,53,No,no,one year,Yes,bank transfer,1293.06,68527.1,No,49-72 Months
+C0318,male,0,No,No,53,Yes,fiber optic,month-to-month,Yes,electronic check,407.77,21690.64,No,49-72 Months
+C0319,male,0,Yes,No,68,Yes,fiber optic,month-to-month,Yes,credit card,382.61,26117.82,No,49-72 Months
+C0320,male,0,Yes,No,56,Yes,dsl,one year,Yes,electronic check,732.4,41027.39,No,49-72 Months
+C0321,female,0,Yes,Yes,24,Yes,dsl,two year,Yes,mailed check,269.32,6578.38,No,13-24 Months
+C0322,female,1,Yes,Yes,8,Yes,fiber optic,month-to-month,Yes,credit card,922.76,7469.83,Yes,0-12 Months
+C0323,male,0,No,No,45,Yes,dsl,month-to-month,No,bank transfer,1346.91,60744.5,No,25-48 Months
+C0324,female,0,No,No,66,No,fiber optic,one year,No,mailed check,1492.09,98596.06,Yes,49-72 Months
+C0325,female,0,Yes,No,71,Yes,fiber optic,one year,Yes,credit card,1186.68,84442.68,No,49-72 Months
+C0326,male,0,Yes,No,17,Yes,dsl,month-to-month,No,mailed check,1562.66,26544.86,No,13-24 Months
+C0327,female,0,No,No,18,Yes,fiber optic,month-to-month,No,bank transfer,880.08,15682.19,Yes,13-24 Months
+C0328,male,0,No,No,3,Yes,dsl,month-to-month,No,electronic check,1565.6,4776.45,No,0-12 Months
+C0329,female,0,No,Yes,11,Yes,no,two year,Yes,electronic check,935.03,10379.0,No,0-12 Months
+C0330,female,0,Yes,No,40,Yes,dsl,month-to-month,Yes,mailed check,595.71,24016.8,No,25-48 Months
+C0331,male,0,No,Yes,40,Yes,fiber optic,month-to-month,Yes,bank transfer,1713.43,68690.95,Yes,25-48 Months
+C0332,female,0,No,No,27,Yes,fiber optic,two year,Yes,credit card,676.2,18490.86,No,25-48 Months
+C0333,female,0,No,No,23,Yes,fiber optic,month-to-month,No,mailed check,290.61,6758.41,Yes,13-24 Months
+C0334,male,0,No,No,60,Yes,fiber optic,month-to-month,No,credit card,626.14,37595.86,No,49-72 Months
+C0335,male,0,No,No,34,Yes,fiber optic,month-to-month,Yes,bank transfer,818.37,27658.38,No,25-48 Months
+C0336,female,0,Yes,No,59,Yes,fiber optic,month-to-month,Yes,electronic check,794.59,46917.78,Yes,49-72 Months
+C0337,male,1,Yes,No,70,Yes,fiber optic,month-to-month,No,bank transfer,1063.23,74359.8,Yes,49-72 Months
+C0338,male,0,Yes,No,23,Yes,no,month-to-month,Yes,bank transfer,1518.85,34958.93,Yes,13-24 Months
+C0339,female,0,No,Yes,15,Yes,fiber optic,one year,No,mailed check,703.12,10553.34,No,13-24 Months
+C0340,male,0,No,No,69,Yes,fiber optic,one year,Yes,mailed check,1057.19,73002.72,No,49-72 Months
+C0341,female,0,Yes,No,46,Yes,dsl,month-to-month,Yes,mailed check,777.22,35740.44,Yes,25-48 Months
+C0342,female,0,Yes,Yes,21,Yes,fiber optic,one year,Yes,bank transfer,1523.75,32110.95,Yes,13-24 Months
+C0343,female,0,Yes,No,45,Yes,fiber optic,month-to-month,Yes,bank transfer,494.28,21915.82,No,25-48 Months
+C0344,female,0,Yes,Yes,38,Yes,fiber optic,two year,No,mailed check,410.44,15619.52,No,25-48 Months
+C0345,female,0,No,No,66,Yes,dsl,month-to-month,Yes,mailed check,1029.64,68100.54,No,49-72 Months
+C0346,female,1,No,No,19,Yes,no,one year,Yes,mailed check,1191.43,22861.58,No,13-24 Months
+C0347,female,1,Yes,No,72,Yes,fiber optic,month-to-month,Yes,mailed check,1483.06,106868.16,No,49-72 Months
+C0348,male,0,Yes,No,68,Yes,fiber optic,one year,Yes,mailed check,1163.92,79348.75,No,49-72 Months
+C0349,female,0,No,Yes,14,Yes,dsl,month-to-month,Yes,mailed check,1449.47,20312.85,No,13-24 Months
+C0350,male,0,No,Yes,12,Yes,no,one year,No,bank transfer,758.7,9104.74,No,0-12 Months
+C0351,female,1,Yes,Yes,39,No,dsl,month-to-month,No,electronic check,300.94,11800.19,Yes,25-48 Months
+C0352,male,1,Yes,Yes,4,Yes,dsl,two year,No,bank transfer,429.95,1719.42,Yes,0-12 Months
+C0353,male,0,Yes,No,22,Yes,no,month-to-month,Yes,electronic check,210.02,4526.56,No,13-24 Months
+C0354,male,0,Yes,No,32,Yes,no,one year,Yes,mailed check,659.86,21053.69,Yes,25-48 Months
+C0355,female,0,No,No,70,Yes,dsl,two year,Yes,credit card,1018.01,71127.24,No,49-72 Months
+C0356,male,0,No,No,72,Yes,fiber optic,two year,Yes,credit card,802.29,57828.29,No,49-72 Months
+C0357,male,0,No,No,11,Yes,fiber optic,month-to-month,No,bank transfer,1118.93,12309.6,No,0-12 Months
+C0358,female,0,Yes,Yes,65,Yes,no,month-to-month,No,bank transfer,894.94,58127.87,Yes,49-72 Months
+C0359,female,0,Yes,Yes,7,Yes,fiber optic,month-to-month,Yes,electronic check,1300.81,9037.67,Yes,0-12 Months
+C0360,female,0,Yes,No,54,Yes,fiber optic,month-to-month,Yes,mailed check,1283.79,69385.27,No,49-72 Months
+C0361,male,0,No,No,61,Yes,fiber optic,one year,Yes,bank transfer,743.0,45416.65,No,49-72 Months
+C0362,female,0,No,No,65,No,fiber optic,two year,Yes,credit card,786.63,50995.29,No,49-72 Months
+C0363,female,0,Yes,No,17,Yes,fiber optic,two year,No,bank transfer,1156.98,19514.14,No,13-24 Months
+C0364,male,0,No,No,65,Yes,fiber optic,month-to-month,Yes,credit card,1174.47,76455.09,No,49-72 Months
+C0365,female,0,Yes,Yes,9,Yes,dsl,one year,No,mailed check,737.78,6475.0,No,0-12 Months
+C0366,male,0,No,Yes,38,No,no,two year,Yes,electronic check,661.99,25221.32,No,25-48 Months
+C0367,male,0,Yes,Yes,34,Yes,no,two year,No,electronic check,1225.77,41870.21,No,25-48 Months
+C0368,female,0,No,No,23,Yes,fiber optic,month-to-month,No,bank transfer,1253.49,29024.58,No,13-24 Months
+C0369,male,0,No,No,2,Yes,dsl,month-to-month,Yes,bank transfer,459.33,1007.2,Yes,0-12 Months
+C0370,male,0,Yes,No,56,Yes,dsl,two year,No,mailed check,933.61,52367.22,No,49-72 Months
+C0371,male,0,Yes,Yes,25,Yes,fiber optic,month-to-month,Yes,credit card,1633.69,41112.48,Yes,25-48 Months
+C0372,female,0,Yes,No,48,Yes,dsl,month-to-month,No,bank transfer,306.27,14420.83,Yes,25-48 Months
+C0373,male,0,Yes,No,30,Yes,no,two year,Yes,mailed check,1475.5,44209.28,No,25-48 Months
+C0374,male,0,No,No,27,Yes,fiber optic,two year,No,electronic check,502.93,13680.93,No,25-48 Months
+C0375,female,0,No,No,64,Yes,fiber optic,two year,No,bank transfer,1036.24,66278.89,No,49-72 Months
+C0376,female,0,No,Yes,7,Yes,no,one year,No,bank transfer,807.72,5802.81,Yes,0-12 Months
+C0377,male,0,Yes,Yes,54,Yes,fiber optic,month-to-month,Yes,electronic check,265.7,14343.08,No,49-72 Months
+C0378,female,0,No,No,54,Yes,dsl,month-to-month,No,mailed check,1668.87,90134.79,Yes,49-72 Months
+C0379,male,0,Yes,No,28,Yes,fiber optic,month-to-month,Yes,mailed check,955.13,26710.68,No,25-48 Months
+C0380,female,0,Yes,No,19,Yes,fiber optic,one year,No,bank transfer,1729.12,32790.58,Yes,13-24 Months
+C0381,female,0,No,No,1,Yes,fiber optic,month-to-month,No,electronic check,694.45,628.8,Yes,0-12 Months
+C0382,female,0,Yes,No,68,Yes,fiber optic,one year,Yes,credit card,1592.73,108338.18,No,49-72 Months
+C0383,male,0,No,No,69,Yes,no,month-to-month,Yes,mailed check,1579.7,108906.35,Yes,49-72 Months
+C0384,female,1,Yes,Yes,18,Yes,fiber optic,one year,Yes,mailed check,1113.09,20150.0,No,13-24 Months
+C0385,female,0,Yes,Yes,3,Yes,dsl,month-to-month,No,electronic check,564.15,1770.84,No,0-12 Months
+C0386,male,0,No,No,9,Yes,fiber optic,month-to-month,No,credit card,1312.13,11941.1,No,0-12 Months
+C0387,male,0,No,No,5,No,fiber optic,month-to-month,No,electronic check,1100.92,5369.13,Yes,0-12 Months
+C0388,female,0,No,Yes,60,Yes,dsl,month-to-month,Yes,credit card,1714.02,102637.26,Yes,49-72 Months
+C0389,male,1,Yes,Yes,65,Yes,dsl,two year,No,mailed check,930.87,60506.05,No,49-72 Months
+C0390,female,0,Yes,Yes,12,Yes,fiber optic,month-to-month,Yes,credit card,666.2,8342.26,No,0-12 Months
+C0391,male,1,Yes,Yes,54,Yes,dsl,month-to-month,Yes,electronic check,464.34,25226.31,Yes,49-72 Months
+C0392,female,0,Yes,Yes,13,Yes,no,one year,Yes,electronic check,1232.88,15960.91,No,13-24 Months
+C0393,female,0,No,Yes,27,Yes,dsl,one year,Yes,credit card,1759.87,47567.43,No,25-48 Months
+C0394,male,1,Yes,No,44,Yes,dsl,month-to-month,No,credit card,293.93,13020.23,No,25-48 Months
+C0395,male,0,Yes,No,52,Yes,fiber optic,month-to-month,Yes,bank transfer,1397.69,72515.67,Yes,49-72 Months
+C0396,male,0,Yes,No,63,Yes,no,month-to-month,Yes,electronic check,1586.74,100128.98,Yes,49-72 Months
+C0397,female,0,Yes,No,4,Yes,dsl,one year,Yes,credit card,365.91,1443.55,Yes,0-12 Months
+C0398,female,1,No,No,15,Yes,dsl,month-to-month,Yes,mailed check,420.76,6300.52,No,13-24 Months
+C0399,male,0,No,No,21,No,dsl,month-to-month,No,credit card,1322.53,27775.98,Yes,13-24 Months
+C0400,female,0,No,No,23,Yes,fiber optic,month-to-month,Yes,credit card,1254.34,28987.16,No,13-24 Months
+C0401,female,0,No,No,72,Yes,fiber optic,one year,Yes,credit card,356.68,25590.34,No,49-72 Months
+C0402,male,0,Yes,Yes,56,Yes,dsl,month-to-month,Yes,bank transfer,1543.36,86223.32,No,49-72 Months
+C0403,female,0,Yes,No,24,Yes,dsl,two year,No,bank transfer,1061.31,25510.19,Yes,13-24 Months
+C0404,male,0,No,No,70,Yes,fiber optic,month-to-month,No,bank transfer,1656.16,115685.96,Yes,49-72 Months
+C0405,female,0,Yes,No,36,No,no,one year,No,electronic check,1510.89,54355.91,No,25-48 Months
+C0406,male,1,No,Yes,37,Yes,fiber optic,month-to-month,Yes,mailed check,1509.39,55989.85,No,25-48 Months
+C0407,male,0,Yes,No,32,Yes,fiber optic,month-to-month,Yes,bank transfer,1049.64,33657.97,No,25-48 Months
+C0408,male,0,Yes,No,11,Yes,dsl,month-to-month,Yes,credit card,640.15,7166.73,Yes,0-12 Months
+C0409,male,0,Yes,No,68,Yes,dsl,two year,Yes,bank transfer,1034.26,70404.12,No,49-72 Months
+C0410,male,0,Yes,Yes,2,Yes,dsl,two year,Yes,bank transfer,406.26,1101.76,No,0-12 Months
+C0411,female,1,No,No,13,Yes,fiber optic,month-to-month,No,electronic check,1271.21,16455.14,Yes,13-24 Months
+C0412,male,0,Yes,No,17,Yes,no,month-to-month,No,mailed check,357.66,6128.0,Yes,13-24 Months
+C0413,female,0,Yes,Yes,21,Yes,no,two year,No,bank transfer,942.32,19736.15,No,13-24 Months
+C0414,male,0,Yes,No,10,Yes,no,month-to-month,No,credit card,234.29,2457.72,Yes,0-12 Months
+C0415,male,0,Yes,No,2,Yes,no,month-to-month,No,mailed check,614.24,1221.09,Yes,0-12 Months
+C0416,female,0,No,No,49,Yes,no,month-to-month,Yes,electronic check,509.72,25182.54,No,49-72 Months
+C0417,male,0,No,Yes,70,No,dsl,one year,Yes,mailed check,1211.05,84709.8,No,49-72 Months
+C0418,male,0,No,No,9,Yes,dsl,one year,Yes,electronic check,1469.52,13394.54,Yes,0-12 Months
+C0419,female,1,Yes,No,22,Yes,dsl,one year,Yes,bank transfer,338.82,7525.22,Yes,13-24 Months
+C0420,male,0,Yes,Yes,37,Yes,fiber optic,two year,No,bank transfer,1567.94,58009.88,No,25-48 Months
+C0421,female,0,Yes,Yes,67,Yes,dsl,month-to-month,Yes,credit card,1584.19,106205.82,Yes,49-72 Months
+C0422,male,0,Yes,Yes,50,Yes,fiber optic,month-to-month,No,credit card,780.52,39057.35,Yes,49-72 Months
+C0423,female,0,No,Yes,56,Yes,fiber optic,month-to-month,No,electronic check,1271.46,71244.47,No,49-72 Months
+C0424,male,0,No,No,42,No,fiber optic,month-to-month,Yes,electronic check,874.05,36685.28,Yes,25-48 Months
+C0425,male,0,No,No,31,Yes,dsl,month-to-month,No,mailed check,489.0,15074.81,No,25-48 Months
+C0426,female,0,Yes,Yes,15,Yes,dsl,month-to-month,Yes,electronic check,1069.43,16001.24,Yes,13-24 Months
+C0427,female,0,Yes,No,63,Yes,dsl,month-to-month,Yes,credit card,383.86,23981.2,Yes,49-72 Months
+C0428,female,0,No,Yes,58,Yes,no,one year,Yes,electronic check,1511.63,87775.57,Yes,49-72 Months
+C0429,male,1,Yes,No,2,No,fiber optic,month-to-month,Yes,electronic check,1682.65,3217.08,Yes,0-12 Months
+C0430,male,0,No,No,52,Yes,fiber optic,month-to-month,Yes,credit card,1523.5,79195.88,Yes,49-72 Months
+C0431,female,1,Yes,No,7,Yes,dsl,one year,No,credit card,1121.92,7931.21,No,0-12 Months
+C0432,male,0,No,No,54,Yes,fiber optic,one year,No,electronic check,1114.28,60271.85,No,49-72 Months
+C0433,male,0,No,No,60,Yes,fiber optic,unknown,No,mailed check,1776.14,106355.44,No,49-72 Months
+C0434,male,0,No,Yes,10,Yes,fiber optic,two year,No,bank transfer,634.25,6331.48,No,0-12 Months
+C0435,female,0,Yes,Yes,32,Yes,fiber optic,one year,No,bank transfer,367.72,11822.21,No,25-48 Months
+C0436,male,0,No,No,9,Yes,dsl,month-to-month,No,credit card,1121.01,10095.33,Yes,0-12 Months
+C0437,male,0,No,Yes,41,Yes,no,month-to-month,Yes,mailed check,659.62,27205.71,No,25-48 Months
+C0438,male,0,No,No,67,Yes,dsl,one year,No,electronic check,749.63,50126.59,No,49-72 Months
+C0439,male,0,Yes,Yes,6,No,no,month-to-month,No,mailed check,160.98,720.0,Yes,0-12 Months
+C0440,male,0,Yes,No,29,Yes,dsl,month-to-month,Yes,bank transfer,1174.17,34148.17,Yes,25-48 Months
+C0441,male,0,No,No,71,Yes,dsl,month-to-month,Yes,bank transfer,659.25,46742.3,Yes,49-72 Months
+C0442,male,0,Yes,No,22,Yes,fiber optic,month-to-month,No,bank transfer,541.18,11694.94,Yes,13-24 Months
+C0443,male,0,Yes,No,10,Yes,dsl,month-to-month,No,credit card,312.67,3107.68,No,0-12 Months
+C0444,female,0,Yes,Yes,36,Yes,fiber optic,month-to-month,Yes,credit card,814.76,29479.03,No,25-48 Months
+C0445,female,0,Yes,Yes,37,Yes,fiber optic,two year,Yes,mailed check,1612.4,59507.21,No,25-48 Months
+C0446,male,0,Yes,No,48,Yes,dsl,two year,Yes,mailed check,771.84,37328.64,No,25-48 Months
+C0447,male,0,Yes,No,23,Yes,fiber optic,month-to-month,Yes,bank transfer,1302.57,29858.56,Yes,13-24 Months
+C0448,male,0,Yes,No,69,Yes,no,two year,No,mailed check,1322.65,91273.29,No,49-72 Months
+C0449,male,0,Yes,No,38,Yes,no,month-to-month,Yes,mailed check,658.56,24878.98,No,25-48 Months
+C0450,male,0,Yes,No,21,Yes,dsl,two year,Yes,electronic check,1523.54,31999.33,Yes,13-24 Months
+C0451,female,0,Yes,Yes,70,No,fiber optic,two year,No,mailed check,1322.41,92552.65,No,49-72 Months
+C0452,male,0,Yes,No,67,Yes,dsl,month-to-month,No,bank transfer,1116.83,74648.87,No,49-72 Months
+C0453,female,0,Yes,No,36,Yes,dsl,one year,No,credit card,251.54,9394.54,No,25-48 Months
+C0454,male,0,Yes,No,2,No,dsl,two year,No,credit card,304.39,549.34,No,0-12 Months
+C0455,male,0,Yes,No,43,Yes,no,two year,Yes,mailed check,1685.84,72431.78,No,25-48 Months
+C0456,male,0,Yes,No,40,Yes,no,two year,No,electronic check,1362.54,54617.88,No,25-48 Months
+C0457,male,0,Yes,No,11,No,fiber optic,one year,No,electronic check,1703.23,18953.24,Yes,0-12 Months
+C0458,male,0,No,No,46,Yes,fiber optic,month-to-month,No,mailed check,1648.57,75969.39,No,25-48 Months
+C0459,male,0,Yes,Yes,61,Yes,fiber optic,two year,Yes,bank transfer,281.69,17038.95,Yes,49-72 Months
+C0460,male,0,No,No,8,Yes,fiber optic,one year,Yes,credit card,1477.36,11844.55,No,0-12 Months
+C0461,female,0,No,No,53,No,fiber optic,one year,No,credit card,949.28,50086.08,No,49-72 Months
+C0462,female,0,No,No,11,Yes,fiber optic,month-to-month,Yes,electronic check,1473.82,16320.22,Yes,0-12 Months
+C0463,male,0,No,Yes,54,Yes,dsl,one year,No,bank transfer,260.41,13865.92,No,49-72 Months
+C0464,female,0,No,No,31,Yes,dsl,month-to-month,No,mailed check,696.71,21501.63,No,25-48 Months
+C0465,male,0,No,No,1,Yes,no,one year,No,electronic check,1314.55,1314.17,Yes,0-12 Months
+C0466,male,0,No,Yes,70,Yes,fiber optic,month-to-month,No,bank transfer,1479.18,103596.0,Yes,49-72 Months
+C0467,male,0,Yes,Yes,12,Yes,no,one year,No,electronic check,1110.56,13295.41,Yes,0-12 Months
+C0468,male,0,No,Yes,43,Yes,dsl,two year,No,mailed check,716.95,31011.14,No,25-48 Months
+C0469,female,0,Yes,No,14,Yes,fiber optic,month-to-month,No,bank transfer,731.06,10321.63,No,13-24 Months
+C0470,female,0,Yes,No,68,Yes,dsl,month-to-month,Yes,mailed check,1748.48,118974.01,Yes,49-72 Months
+C0471,female,0,No,Yes,54,Yes,dsl,month-to-month,Yes,bank transfer,930.78,50114.59,No,49-72 Months
+C0472,female,0,No,No,58,Yes,dsl,two year,Yes,mailed check,943.04,54900.24,No,49-72 Months
+C0473,female,0,Yes,No,32,Yes,dsl,one year,Yes,credit card,1106.12,35299.47,No,25-48 Months
+C0474,male,1,Yes,No,34,Yes,no,month-to-month,Yes,electronic check,784.73,26889.33,Yes,25-48 Months
+C0475,male,1,No,No,46,Yes,dsl,month-to-month,Yes,electronic check,1106.64,51148.1,No,25-48 Months
+C0476,male,0,No,No,57,Yes,fiber optic,month-to-month,No,bank transfer,920.12,52508.36,No,49-72 Months
+C0477,female,0,Yes,No,61,Yes,fiber optic,month-to-month,Yes,mailed check,1531.41,93539.85,No,49-72 Months
+C0478,male,0,No,Yes,2,Yes,fiber optic,two year,No,bank transfer,1659.03,2948.11,No,0-12 Months
+C0479,female,0,Yes,No,48,Yes,fiber optic,one year,No,electronic check,1694.77,81325.56,No,25-48 Months
+C0480,female,0,Yes,No,8,Yes,dsl,month-to-month,No,bank transfer,1124.66,9129.54,No,0-12 Months
+C0481,male,0,Yes,No,21,Yes,no,two year,Yes,credit card,835.33,17652.87,No,13-24 Months
+C0482,male,0,No,No,60,Yes,fiber optic,month-to-month,Yes,electronic check,1343.12,80440.83,No,49-72 Months
+C0483,female,0,Yes,No,19,Yes,fiber optic,two year,No,mailed check,1549.4,29403.35,No,13-24 Months
+C0484,male,0,Yes,No,58,Yes,fiber optic,month-to-month,Yes,credit card,1122.62,64807.6,Yes,49-72 Months
+C0485,male,0,Yes,Yes,34,Yes,dsl,one year,No,bank transfer,1334.97,45438.54,No,25-48 Months
+C0486,male,0,Yes,No,17,Yes,no,two year,Yes,electronic check,1312.08,22079.36,No,13-24 Months
+C0487,female,0,No,Yes,25,No,dsl,month-to-month,No,electronic check,1298.41,32595.91,No,25-48 Months
+C0488,male,0,Yes,Yes,39,Yes,dsl,one year,Yes,credit card,1406.51,54995.82,Yes,25-48 Months
+C0489,female,1,No,Yes,56,Yes,dsl,two year,No,credit card,573.4,32053.48,No,49-72 Months
+C0490,male,0,Yes,Yes,44,Yes,fiber optic,month-to-month,Yes,mailed check,1022.48,45051.67,No,25-48 Months
+C0491,female,0,Yes,No,68,Yes,fiber optic,month-to-month,Yes,mailed check,1161.82,78977.71,No,49-72 Months
+C0492,female,0,Yes,No,63,No,fiber optic,one year,No,credit card,253.84,16020.95,No,49-72 Months
+C0493,male,1,Yes,No,55,Yes,fiber optic,month-to-month,Yes,electronic check,1576.74,86583.03,No,49-72 Months
+C0494,female,1,No,Yes,44,Yes,dsl,month-to-month,Yes,electronic check,1195.54,52678.46,Yes,25-48 Months
+C0495,male,0,Yes,No,21,Yes,no,month-to-month,No,credit card,350.16,7156.42,Yes,13-24 Months
+C0496,male,0,No,No,30,Yes,fiber optic,one year,Yes,electronic check,1515.35,45240.91,No,25-48 Months
+C0497,female,0,No,No,9,Yes,fiber optic,month-to-month,Yes,credit card,1361.44,12238.33,Yes,0-12 Months
+C0498,male,0,Yes,No,27,No,dsl,month-to-month,No,mailed check,1425.36,38459.37,No,25-48 Months
+C0499,female,1,Yes,No,67,Yes,no,two year,Yes,credit card,757.67,50796.57,No,49-72 Months
+C0500,female,0,No,Yes,31,Yes,dsl,month-to-month,No,electronic check,1574.01,48716.37,No,25-48 Months
+C0501,male,0,Yes,No,9,Yes,dsl,two year,Yes,credit card,891.74,8251.94,Yes,0-12 Months
+C0502,male,0,Yes,No,47,Yes,fiber optic,month-to-month,Yes,electronic check,1134.29,53330.9,Yes,25-48 Months
+C0503,female,0,Yes,Yes,70,Yes,dsl,two year,Yes,electronic check,251.0,17597.95,No,49-72 Months
+C0504,male,0,Yes,No,63,Yes,dsl,one year,Yes,bank transfer,1249.55,78745.32,No,49-72 Months
+C0505,male,0,Yes,No,20,Yes,fiber optic,month-to-month,No,bank transfer,1363.17,27383.75,Yes,13-24 Months
+C0506,male,0,No,No,33,Yes,fiber optic,two year,No,credit card,1129.02,37326.78,No,25-48 Months
+C0507,male,0,No,No,39,Yes,no,month-to-month,No,electronic check,919.67,35920.17,Yes,25-48 Months
+C0508,female,1,No,No,18,Yes,dsl,month-to-month,No,electronic check,1505.4,27185.52,Yes,13-24 Months
+C0509,male,0,Yes,No,20,No,fiber optic,month-to-month,Yes,bank transfer,1306.13,25903.65,No,13-24 Months
+C0510,female,1,Yes,No,18,Yes,fiber optic,one year,No,credit card,681.01,12043.76,No,13-24 Months
+C0511,female,0,No,No,72,Yes,fiber optic,month-to-month,Yes,mailed check,1736.56,125023.19,No,49-72 Months
+C0512,female,0,Yes,No,54,Yes,fiber optic,month-to-month,Yes,credit card,1346.26,72674.32,No,49-72 Months
+C0513,female,0,Yes,Yes,61,Yes,fiber optic,month-to-month,Yes,credit card,1781.31,108729.49,No,49-72 Months
+C0514,female,0,No,No,59,No,no,month-to-month,No,credit card,1655.46,97674.54,Yes,49-72 Months
+C0515,male,0,Yes,No,70,Yes,dsl,month-to-month,Yes,bank transfer,1674.31,117271.52,Yes,49-72 Months
+C0516,male,0,No,No,8,Yes,dsl,month-to-month,No,bank transfer,1420.83,11217.17,Yes,0-12 Months
+C0517,female,0,Yes,No,64,No,fiber optic,month-to-month,Yes,bank transfer,1194.62,76454.39,No,49-72 Months
+C0518,male,0,Yes,No,5,Yes,fiber optic,month-to-month,Yes,bank transfer,516.86,2423.37,Yes,0-12 Months
+C0519,female,0,No,No,35,Yes,dsl,one year,No,bank transfer,1092.19,38273.07,No,25-48 Months
+C0520,male,1,Yes,Yes,43,Yes,fiber optic,month-to-month,Yes,bank transfer,1436.33,61536.8,Yes,25-48 Months
+C0521,female,1,No,Yes,26,Yes,no,one year,Yes,mailed check,957.33,24932.38,Yes,25-48 Months
+C0522,female,1,Yes,No,11,Yes,fiber optic,month-to-month,No,bank transfer,1595.77,17377.19,Yes,0-12 Months
+C0523,male,0,Yes,No,14,No,no,month-to-month,Yes,credit card,319.97,4433.56,No,13-24 Months
+C0524,female,1,No,Yes,60,Yes,fiber optic,month-to-month,Yes,credit card,840.46,50534.99,No,49-72 Months
+C0525,male,0,No,Yes,23,Yes,fiber optic,month-to-month,No,bank transfer,1034.24,23814.81,No,13-24 Months
+C0526,male,1,No,Yes,23,Yes,dsl,month-to-month,No,electronic check,920.1,20964.82,No,13-24 Months
+C0527,female,0,No,No,67,Yes,no,two year,Yes,bank transfer,318.31,21246.08,No,49-72 Months
+C0528,female,0,No,No,11,Yes,fiber optic,month-to-month,No,mailed check,487.97,5187.5,No,0-12 Months
+C0529,female,1,No,No,66,Yes,fiber optic,month-to-month,Yes,electronic check,1548.31,101985.09,Yes,49-72 Months
+C0530,male,0,Yes,Yes,67,Yes,fiber optic,one year,Yes,electronic check,1000.8,67067.72,No,49-72 Months
+C0531,male,0,No,Yes,44,Yes,fiber optic,month-to-month,Yes,bank transfer,325.52,14390.12,No,25-48 Months
+C0532,male,0,No,Yes,12,Yes,fiber optic,month-to-month,No,credit card,275.56,3359.59,Yes,0-12 Months
+C0533,female,0,Yes,No,12,Yes,fiber optic,month-to-month,Yes,bank transfer,983.89,11879.0,No,0-12 Months
+C0534,male,0,No,Yes,21,No,no,month-to-month,Yes,mailed check,404.79,8499.16,No,13-24 Months
+C0535,female,1,Yes,No,42,Yes,fiber optic,month-to-month,No,electronic check,1342.95,56371.09,Yes,25-48 Months
+C0536,female,1,Yes,No,12,Yes,fiber optic,one year,No,bank transfer,1482.75,17664.23,Yes,0-12 Months
+C0537,male,1,Yes,No,33,Yes,dsl,two year,Yes,electronic check,603.86,19874.57,No,25-48 Months
+C0538,female,0,No,No,9,No,fiber optic,month-to-month,No,credit card,1167.87,10352.27,No,0-12 Months
+C0539,male,0,Yes,Yes,39,Yes,fiber optic,one year,Yes,credit card,489.39,18984.79,Yes,25-48 Months
+C0540,male,0,Yes,Yes,2,Yes,dsl,one year,No,credit card,720.55,1451.77,No,0-12 Months
+C0541,male,0,Yes,No,52,Yes,dsl,month-to-month,Yes,mailed check,1627.63,84622.62,Yes,49-72 Months
+C0542,female,0,Yes,No,4,Yes,fiber optic,one year,Yes,electronic check,1093.35,4741.17,Yes,0-12 Months
+C0543,female,0,Yes,No,15,Yes,fiber optic,one year,No,mailed check,1623.13,24185.45,No,13-24 Months
+C0544,female,1,No,No,13,No,fiber optic,two year,No,credit card,599.13,7773.68,No,13-24 Months
+C0545,female,0,No,No,60,Yes,dsl,two year,No,electronic check,761.54,45521.55,No,49-72 Months
+C0546,female,0,Yes,No,4,Yes,dsl,month-to-month,No,credit card,979.98,3873.39,Yes,0-12 Months
+C0547,female,0,No,No,31,Yes,dsl,month-to-month,Yes,electronic check,994.12,30776.07,No,25-48 Months
+C0548,female,0,No,Yes,43,Yes,fiber optic,month-to-month,No,electronic check,1796.35,77344.44,Yes,25-48 Months
+C0549,male,0,Yes,Yes,38,Yes,no,month-to-month,No,electronic check,327.39,12386.86,No,25-48 Months
+C0550,male,0,No,Yes,50,Yes,dsl,month-to-month,No,credit card,1570.55,78504.54,Yes,49-72 Months
+C0551,female,0,No,No,58,Yes,fiber optic,two year,Yes,bank transfer,1588.71,92093.54,Yes,49-72 Months
+C0552,female,0,Yes,No,29,Yes,dsl,month-to-month,Yes,mailed check,1107.46,31948.21,No,25-48 Months
+C0553,female,1,No,Yes,60,Yes,dsl,month-to-month,No,bank transfer,783.26,46917.35,Yes,49-72 Months
+C0554,female,0,Yes,Yes,23,Yes,dsl,two year,No,bank transfer,1054.8,24214.57,No,13-24 Months
+C0555,female,0,Yes,No,71,Yes,dsl,month-to-month,Yes,bank transfer,703.32,49944.58,Yes,49-72 Months
+C0556,female,0,No,No,37,Yes,fiber optic,month-to-month,Yes,bank transfer,1488.62,55146.01,No,25-48 Months
+C0557,female,0,Yes,Yes,53,Yes,no,two year,Yes,electronic check,922.33,48855.34,No,49-72 Months
+C0558,male,0,Yes,No,64,Yes,dsl,month-to-month,Yes,mailed check,1685.06,107813.58,No,49-72 Months
+C0559,female,0,No,No,58,Yes,fiber optic,month-to-month,No,bank transfer,1215.17,70273.36,Yes,49-72 Months
+C0560,female,1,No,No,62,Yes,fiber optic,month-to-month,No,electronic check,1047.19,64990.55,No,49-72 Months
+C0561,female,0,Yes,No,39,Yes,no,two year,No,mailed check,1252.16,48750.73,No,25-48 Months
+C0562,female,0,Yes,Yes,4,Yes,fiber optic,month-to-month,No,electronic check,1031.1,4214.05,Yes,0-12 Months
+C0563,male,0,Yes,Yes,36,Yes,dsl,month-to-month,Yes,credit card,1651.98,59629.25,Yes,25-48 Months
+C0564,male,0,Yes,No,14,Yes,fiber optic,month-to-month,No,electronic check,535.89,7479.91,No,13-24 Months
+C0565,female,0,No,Yes,65,Yes,dsl,month-to-month,Yes,electronic check,1758.69,114192.05,Yes,49-72 Months
+C0566,female,1,No,No,18,Yes,no,two year,Yes,bank transfer,1408.9,25358.2,No,13-24 Months
+C0567,male,0,Yes,Yes,17,Yes,fiber optic,month-to-month,Yes,electronic check,1584.14,26972.22,No,13-24 Months
+C0568,male,0,Yes,No,18,Yes,fiber optic,two year,Yes,mailed check,998.51,17935.32,Yes,13-24 Months
+C0569,female,0,No,No,47,Yes,dsl,month-to-month,Yes,mailed check,1547.66,72672.34,No,25-48 Months
+C0570,male,0,No,No,42,Yes,fiber optic,month-to-month,Yes,electronic check,725.5,30538.62,No,25-48 Months
+C0571,female,1,Yes,No,69,Yes,no,two year,Yes,credit card,1331.02,91900.09,No,49-72 Months
+C0572,male,0,No,No,30,No,fiber optic,month-to-month,Yes,bank transfer,467.7,13989.45,No,25-48 Months
+C0573,male,0,Yes,Yes,21,Yes,fiber optic,month-to-month,No,electronic check,725.93,15046.04,Yes,13-24 Months
+C0574,female,0,Yes,No,4,Yes,no,two year,No,bank transfer,840.89,3418.33,No,0-12 Months
+C0575,female,0,No,Yes,1,No,no,month-to-month,Yes,bank transfer,649.6,557.52,No,0-12 Months
+C0576,female,0,No,No,27,Yes,dsl,month-to-month,No,bank transfer,849.88,22972.48,Yes,25-48 Months
+C0577,female,0,No,No,67,Yes,fiber optic,two year,No,bank transfer,1521.16,101935.86,No,49-72 Months
+C0578,male,0,No,Yes,38,Yes,fiber optic,month-to-month,Yes,credit card,647.85,24391.63,Yes,25-48 Months
+C0579,female,0,Yes,Yes,65,Yes,fiber optic,month-to-month,Yes,mailed check,1405.19,91347.08,No,49-72 Months
+C0580,female,1,No,No,8,Yes,dsl,month-to-month,Yes,mailed check,364.25,2975.74,Yes,0-12 Months
+C0581,female,0,Yes,Yes,7,Yes,dsl,month-to-month,No,bank transfer,1436.9,10134.76,No,0-12 Months
+C0582,male,0,Yes,No,61,Yes,no,month-to-month,Yes,credit card,1377.64,84050.12,No,49-72 Months
+C0583,female,0,No,Yes,8,Yes,no,one year,Yes,bank transfer,772.63,5943.78,No,0-12 Months
+C0584,male,0,Yes,No,4,Yes,fiber optic,month-to-month,No,electronic check,1369.84,5632.61,No,0-12 Months
+C0585,female,0,Yes,No,30,Yes,no,one year,No,mailed check,1568.46,47103.12,No,25-48 Months
+C0586,female,0,No,No,67,Yes,fiber optic,month-to-month,No,bank transfer,1491.11,99759.97,No,49-72 Months
+C0587,male,0,No,Yes,50,Yes,fiber optic,month-to-month,Yes,electronic check,855.19,42664.97,Yes,49-72 Months
+C0588,female,0,No,No,8,Yes,fiber optic,month-to-month,Yes,credit card,1000.53,8031.99,No,0-12 Months
+C0589,female,0,Yes,No,61,Yes,fiber optic,one year,Yes,credit card,1458.0,89019.57,No,49-72 Months
+C0590,female,0,No,No,61,Yes,fiber optic,month-to-month,Yes,credit card,703.52,42856.16,No,49-72 Months
+C0591,female,0,Yes,No,58,Yes,dsl,month-to-month,No,electronic check,1496.02,86868.22,Yes,49-72 Months
+C0592,female,0,No,No,65,Yes,fiber optic,two year,Yes,bank transfer,758.51,49088.02,No,49-72 Months
+C0593,male,0,No,No,18,Yes,dsl,one year,No,bank transfer,1499.29,26862.12,No,13-24 Months
+C0594,female,0,No,No,71,Yes,dsl,month-to-month,Yes,bank transfer,384.54,27054.62,Yes,49-72 Months
+C0595,female,1,No,No,24,Yes,fiber optic,two year,No,credit card,318.82,7543.99,No,13-24 Months
+C0596,male,0,Yes,No,58,Yes,fiber optic,month-to-month,No,mailed check,1796.4,104372.17,No,49-72 Months
+C0597,male,0,Yes,Yes,42,Yes,dsl,month-to-month,Yes,bank transfer,1597.66,67348.66,No,25-48 Months
+C0598,male,0,No,No,57,Yes,fiber optic,month-to-month,No,bank transfer,1618.41,92277.52,Yes,49-72 Months
+C0599,female,0,No,No,46,Yes,no,month-to-month,No,credit card,1624.48,74649.47,Yes,25-48 Months
+C0600,male,0,Yes,No,47,Yes,dsl,month-to-month,Yes,credit card,929.39,43654.73,No,25-48 Months
+C0601,female,0,Yes,No,45,Yes,dsl,one year,Yes,mailed check,694.6,31313.8,No,25-48 Months
+C0602,female,0,Yes,No,57,Yes,dsl,month-to-month,No,credit card,451.54,25550.22,No,49-72 Months
+C0603,male,1,Yes,No,54,Yes,fiber optic,two year,No,electronic check,1026.87,55382.28,No,49-72 Months
+C0604,female,0,No,No,10,No,fiber optic,two year,Yes,mailed check,591.07,6082.89,No,0-12 Months
+C0605,female,0,Yes,No,60,Yes,dsl,one year,Yes,bank transfer,1700.1,101880.51,No,49-72 Months
+C0606,female,1,Yes,No,39,Yes,fiber optic,one year,Yes,unknown,256.2,9901.92,No,25-48 Months
+C0607,female,1,No,No,24,Yes,dsl,one year,No,mailed check,471.95,11328.38,No,13-24 Months
+C0608,male,0,Yes,Yes,38,Yes,fiber optic,two year,No,bank transfer,632.04,24051.5,No,25-48 Months
+C0609,male,0,Yes,No,70,Yes,no,month-to-month,Yes,bank transfer,458.38,32011.6,Yes,49-72 Months
+C0610,male,0,No,No,62,Yes,dsl,month-to-month,Yes,electronic check,599.96,37206.76,No,49-72 Months
+C0611,male,0,Yes,No,61,Yes,dsl,month-to-month,No,mailed check,1266.87,77352.02,No,49-72 Months
+C0612,female,0,No,No,34,Yes,fiber optic,month-to-month,Yes,electronic check,757.64,25995.13,Yes,25-48 Months
+C0613,male,0,No,No,57,Yes,fiber optic,month-to-month,No,bank transfer,1203.29,68572.38,No,49-72 Months
+C0614,female,1,No,No,28,Yes,no,one year,No,mailed check,1529.9,42832.24,No,25-48 Months
+C0615,female,0,Yes,No,50,Yes,no,month-to-month,No,bank transfer,1083.96,54381.29,Yes,49-72 Months
+C0616,male,0,No,No,47,Yes,dsl,two year,No,bank transfer,1326.53,62281.01,No,25-48 Months
+C0617,female,0,No,Yes,18,Yes,dsl,month-to-month,No,credit card,816.53,14538.62,Yes,13-24 Months
+C0618,male,0,Yes,No,20,Yes,fiber optic,month-to-month,Yes,electronic check,497.59,9981.83,No,13-24 Months
+C0619,female,1,No,No,5,Yes,dsl,month-to-month,No,credit card,746.91,3863.69,Yes,0-12 Months
+C0620,male,0,No,No,11,Yes,no,month-to-month,No,electronic check,1644.64,18134.37,Yes,0-12 Months
+C0621,male,0,No,No,32,No,fiber optic,month-to-month,No,electronic check,1213.81,38830.28,Yes,25-48 Months
+C0622,male,0,Yes,No,35,Yes,dsl,month-to-month,Yes,electronic check,680.14,23631.09,No,25-48 Months
+C0623,female,0,No,Yes,12,Yes,fiber optic,month-to-month,No,electronic check,948.92,11380.04,No,0-12 Months
+C0624,male,0,Yes,Yes,31,Yes,dsl,month-to-month,No,credit card,1545.05,48044.53,No,25-48 Months
+C0625,female,0,Yes,No,44,Yes,fiber optic,month-to-month,Yes,electronic check,1286.09,56439.87,Yes,25-48 Months
+C0626,male,0,Yes,Yes,17,Yes,fiber optic,month-to-month,Yes,bank transfer,1119.01,18993.8,No,13-24 Months
+C0627,male,0,Yes,No,25,Yes,fiber optic,month-to-month,No,mailed check,1622.0,40503.5,No,25-48 Months
+C0628,female,0,Yes,No,27,No,fiber optic,month-to-month,No,electronic check,1292.28,34807.84,Yes,25-48 Months
+C0629,female,0,No,Yes,37,Yes,fiber optic,month-to-month,No,mailed check,1246.23,46140.26,Yes,25-48 Months
+C0630,male,0,No,No,27,Yes,no,month-to-month,Yes,electronic check,444.14,12044.98,Yes,25-48 Months
+C0631,male,0,Yes,No,54,Yes,no,month-to-month,Yes,mailed check,314.9,17056.54,Yes,49-72 Months
+C0632,male,0,Yes,No,24,Yes,fiber optic,one year,No,bank transfer,1745.97,41786.06,No,13-24 Months
+C0633,female,0,No,No,32,Yes,dsl,two year,Yes,bank transfer,1178.23,37505.84,No,25-48 Months
+C0634,male,0,No,No,28,Yes,fiber optic,two year,No,mailed check,894.31,25072.17,No,25-48 Months
+C0635,male,0,No,Yes,14,Yes,no,month-to-month,No,credit card,1062.98,14821.01,No,13-24 Months
+C0636,female,0,Yes,Yes,50,Yes,dsl,month-to-month,Yes,bank transfer,345.81,17511.1,Yes,49-72 Months
+C0637,male,1,Yes,No,17,Yes,fiber optic,month-to-month,No,mailed check,1524.3,26139.24,Yes,13-24 Months
+C0638,male,0,Yes,No,22,Yes,fiber optic,one year,No,mailed check,585.8,13126.48,No,13-24 Months
+C0639,female,0,Yes,No,58,Yes,dsl,one year,Yes,electronic check,1497.05,86716.09,Yes,49-72 Months
+C0640,male,0,No,No,69,Yes,fiber optic,two year,Yes,credit card,1078.29,74470.33,No,49-72 Months
+C0641,male,0,Yes,Yes,49,Yes,fiber optic,two year,Yes,credit card,678.69,33360.32,No,49-72 Months
+C0642,male,0,No,No,66,No,fiber optic,month-to-month,No,mailed check,296.83,19681.78,Yes,49-72 Months
+C0643,female,0,No,No,62,Yes,fiber optic,one year,Yes,bank transfer,1514.54,93858.95,No,49-72 Months
+C0644,female,0,No,No,35,Yes,fiber optic,two year,Yes,bank transfer,523.51,18476.35,Yes,25-48 Months
+C0645,female,0,Yes,No,56,Yes,fiber optic,month-to-month,Yes,bank transfer,330.3,18496.86,Yes,49-72 Months
+C0646,female,0,Yes,Yes,24,Yes,dsl,two year,Yes,electronic check,1421.61,34134.01,No,13-24 Months
+C0647,male,0,Yes,Yes,34,Yes,fiber optic,month-to-month,Yes,credit card,792.57,26762.84,No,25-48 Months
+C0648,male,0,Yes,No,39,Yes,fiber optic,two year,No,credit card,853.47,33362.7,No,25-48 Months
+C0649,male,1,No,No,70,Yes,fiber optic,one year,No,credit card,632.95,44275.25,No,49-72 Months
+C0650,male,0,No,No,62,Yes,no,month-to-month,Yes,credit card,1481.73,91923.03,No,49-72 Months
+C0651,female,0,Yes,No,36,Yes,dsl,one year,No,credit card,710.86,25619.17,No,25-48 Months
+C0652,male,0,No,Yes,47,No,no,month-to-month,No,bank transfer,475.8,22384.31,No,25-48 Months
+C0653,female,0,No,No,15,No,dsl,one year,Yes,electronic check,729.34,10934.61,Yes,13-24 Months
+C0654,female,0,Yes,Yes,58,Yes,dsl,one year,No,mailed check,564.88,32857.43,No,49-72 Months
+C0655,male,0,No,Yes,40,Yes,fiber optic,one year,No,electronic check,742.37,29670.93,No,25-48 Months
+C0656,female,0,No,No,39,Yes,dsl,two year,Yes,electronic check,378.55,14588.83,No,25-48 Months
+C0657,female,0,No,No,56,Yes,dsl,month-to-month,No,credit card,495.72,27828.59,No,49-72 Months
+C0658,male,0,No,No,46,Yes,dsl,month-to-month,Yes,credit card,896.43,41138.7,Yes,25-48 Months
+C0659,male,0,Yes,Yes,6,Yes,fiber optic,month-to-month,No,bank transfer,1613.17,9520.11,Yes,0-12 Months
+C0660,male,1,No,No,21,Yes,fiber optic,month-to-month,No,bank transfer,338.8,6992.13,Yes,13-24 Months
+C0661,female,0,No,No,13,Yes,dsl,month-to-month,Yes,electronic check,579.65,7569.45,No,13-24 Months
+C0662,female,0,Yes,No,53,Yes,fiber optic,month-to-month,No,electronic check,1657.94,87859.24,No,49-72 Months
+C0663,male,0,No,No,3,No,fiber optic,month-to-month,Yes,credit card,1629.52,4632.64,Yes,0-12 Months
+C0664,female,0,No,No,15,No,dsl,month-to-month,Yes,mailed check,1303.15,19501.21,Yes,13-24 Months
+C0665,male,1,Yes,Yes,44,Yes,dsl,two year,No,bank transfer,622.73,27540.43,No,25-48 Months
+C0666,male,0,Yes,No,51,Yes,no,month-to-month,Yes,mailed check,800.71,40782.05,No,49-72 Months
+C0667,male,0,No,No,37,Yes,fiber optic,two year,Yes,electronic check,577.39,21343.57,No,25-48 Months
+C0668,male,0,No,No,62,Yes,fiber optic,month-to-month,No,credit card,449.31,27982.38,Yes,49-72 Months
+C0669,male,0,Yes,No,67,Yes,fiber optic,month-to-month,Yes,credit card,839.0,56308.46,No,49-72 Months
+C0670,male,0,Yes,No,10,Yes,dsl,month-to-month,No,bank transfer,1142.52,11547.81,Yes,0-12 Months
+C0671,male,1,No,No,69,Yes,fiber optic,month-to-month,Yes,mailed check,807.9,55412.39,Yes,49-72 Months
+C0672,female,0,Yes,Yes,45,Yes,fiber optic,month-to-month,No,bank transfer,1196.78,54063.12,Yes,25-48 Months
+C0673,male,0,Yes,No,46,No,dsl,month-to-month,Yes,credit card,709.19,32699.11,Yes,25-48 Months
+C0674,female,0,Yes,No,7,Yes,fiber optic,month-to-month,Yes,bank transfer,786.07,5797.87,Yes,0-12 Months
+C0675,female,0,Yes,No,45,Yes,fiber optic,month-to-month,No,mailed check,1475.54,66305.42,No,25-48 Months
+C0676,female,1,No,No,53,Yes,fiber optic,one year,No,mailed check,1611.39,85192.06,Yes,49-72 Months
+C0677,male,0,Yes,Yes,42,Yes,fiber optic,month-to-month,Yes,bank transfer,749.15,31465.17,Yes,25-48 Months
+C0678,female,0,No,No,7,Yes,fiber optic,two year,No,mailed check,1135.85,7917.91,Yes,0-12 Months
+C0679,male,0,No,No,38,Yes,dsl,month-to-month,No,bank transfer,681.15,25962.14,Yes,25-48 Months
+C0680,male,0,No,No,68,Yes,dsl,two year,Yes,electronic check,332.67,22750.55,No,49-72 Months
+C0681,female,0,No,No,53,Yes,fiber optic,one year,Yes,electronic check,1393.68,73854.56,No,49-72 Months
+C0682,male,0,No,No,10,Yes,dsl,two year,Yes,credit card,515.06,5121.72,Yes,0-12 Months
+C0683,female,0,No,No,70,Yes,dsl,two year,No,mailed check,909.85,63752.23,No,49-72 Months
+C0684,male,0,No,No,70,Yes,dsl,month-to-month,Yes,mailed check,1004.92,70313.64,No,49-72 Months
+C0685,female,0,Yes,Yes,13,Yes,dsl,month-to-month,No,bank transfer,535.93,6926.29,No,13-24 Months
+C0686,female,0,No,No,58,Yes,fiber optic,month-to-month,No,mailed check,396.56,23124.94,Yes,49-72 Months
+C0687,female,0,Yes,No,30,Yes,fiber optic,two year,Yes,credit card,789.42,23833.77,No,25-48 Months
+C0688,female,0,Yes,No,43,Yes,no,one year,Yes,electronic check,1626.04,70049.8,No,25-48 Months
+C0689,female,0,Yes,No,33,Yes,dsl,month-to-month,No,credit card,1203.46,39693.99,No,25-48 Months
+C0690,male,0,No,No,57,Yes,fiber optic,two year,No,electronic check,841.19,47691.06,No,49-72 Months
+C0691,male,0,No,Yes,72,Yes,fiber optic,month-to-month,Yes,mailed check,310.31,22324.54,No,49-72 Months
+C0692,male,0,Yes,No,58,Yes,fiber optic,one year,No,bank transfer,1180.42,68373.4,No,49-72 Months
+C0693,female,0,No,No,68,Yes,no,one year,Yes,credit card,293.0,19908.43,No,49-72 Months
+C0694,female,0,Yes,Yes,69,Yes,no,month-to-month,Yes,electronic check,990.94,68294.33,No,49-72 Months
+C0695,female,0,Yes,Yes,7,Yes,no,one year,Yes,bank transfer,1315.52,9206.15,No,0-12 Months
+C0696,female,0,Yes,No,19,Yes,dsl,two year,No,electronic check,906.56,17099.93,No,13-24 Months
+C0697,male,0,No,No,52,Yes,dsl,month-to-month,No,electronic check,714.09,36978.99,Yes,49-72 Months
+C0698,female,0,Yes,No,43,Yes,fiber optic,month-to-month,No,credit card,323.45,14055.07,No,25-48 Months
+C0699,female,0,Yes,Yes,4,Yes,dsl,month-to-month,No,bank transfer,288.41,1037.28,Yes,0-12 Months
+C0700,male,1,No,No,7,Yes,fiber optic,one year,Yes,mailed check,916.54,6415.82,No,0-12 Months
+C0701,male,0,Yes,Yes,38,Yes,fiber optic,month-to-month,Yes,bank transfer,1619.19,61643.76,No,25-48 Months
+C0702,female,0,No,No,45,Yes,fiber optic,two year,No,mailed check,628.3,28383.22,No,25-48 Months
+C0703,male,0,No,No,13,Yes,fiber optic,two year,Yes,mailed check,1139.79,14912.65,No,13-24 Months
+C0704,female,0,Yes,No,13,Yes,fiber optic,month-to-month,No,mailed check,1310.67,17075.05,Yes,13-24 Months
+C0705,female,0,No,No,10,Yes,dsl,month-to-month,No,mailed check,344.29,3529.78,Yes,0-12 Months
+C0706,female,0,No,No,41,Yes,dsl,one year,Yes,credit card,487.31,20144.48,No,25-48 Months
+C0707,female,0,Yes,Yes,1,Yes,fiber optic,one year,No,mailed check,763.48,814.48,Yes,0-12 Months
+C0708,female,0,Yes,No,42,Yes,fiber optic,month-to-month,No,mailed check,1288.64,53902.42,Yes,25-48 Months
+C0709,female,0,Yes,No,35,Yes,dsl,month-to-month,Yes,bank transfer,930.5,32504.08,Yes,25-48 Months
+C0710,female,1,Yes,No,34,Yes,fiber optic,month-to-month,No,credit card,1388.0,47275.56,Yes,25-48 Months
+C0711,male,0,Yes,No,49,Yes,fiber optic,two year,Yes,mailed check,1594.78,78068.97,No,49-72 Months
+C0712,female,0,Yes,No,38,Yes,fiber optic,month-to-month,Yes,credit card,1425.48,54362.65,Yes,25-48 Months
+C0713,female,0,No,No,53,Yes,fiber optic,two year,No,mailed check,1787.98,94755.36,No,49-72 Months
+C0714,female,0,Yes,Yes,56,Yes,fiber optic,month-to-month,No,bank transfer,1419.26,79488.79,No,49-72 Months
+C0715,male,0,Yes,Yes,67,Yes,dsl,two year,Yes,credit card,1570.88,105383.93,No,49-72 Months
+C0716,male,0,Yes,Yes,58,Yes,fiber optic,month-to-month,No,mailed check,1540.17,89307.92,Yes,49-72 Months
+C0717,female,0,No,No,38,Yes,dsl,month-to-month,No,electronic check,1381.91,52533.73,Yes,25-48 Months
+C0718,male,0,Yes,No,36,Yes,fiber optic,two year,No,bank transfer,1492.79,53848.33,No,25-48 Months
+C0719,male,0,Yes,No,17,Yes,fiber optic,two year,No,electronic check,1698.76,28702.25,No,13-24 Months
+C0720,female,0,Yes,No,44,Yes,dsl,month-to-month,Yes,mailed check,986.57,43374.84,Yes,25-48 Months
+C0721,male,0,Yes,Yes,11,Yes,dsl,month-to-month,No,credit card,1239.34,13732.24,Yes,0-12 Months
+C0722,female,0,Yes,No,68,Yes,dsl,month-to-month,Yes,mailed check,1048.16,71282.75,No,49-72 Months
+C0723,male,0,No,Yes,61,Yes,no,month-to-month,Yes,bank transfer,1469.11,89791.79,Yes,49-72 Months
+C0724,male,0,No,No,9,Yes,fiber optic,month-to-month,Yes,bank transfer,918.61,8078.38,Yes,0-12 Months
+C0725,female,0,Yes,No,57,Yes,dsl,two year,Yes,electronic check,1520.58,86470.26,Yes,49-72 Months
+C0726,male,0,Yes,No,9,No,no,month-to-month,No,mailed check,1389.0,12593.36,Yes,0-12 Months
+C0727,female,0,Yes,Yes,52,No,fiber optic,one year,No,bank transfer,1740.92,90631.74,No,49-72 Months
+C0728,female,0,Yes,Yes,7,Yes,fiber optic,month-to-month,No,electronic check,635.83,4427.62,Yes,0-12 Months
+C0729,male,0,Yes,No,36,Yes,no,month-to-month,Yes,mailed check,1249.91,45044.81,No,25-48 Months
+C0730,female,0,No,Yes,48,Yes,dsl,one year,No,mailed check,1423.23,68404.46,No,25-48 Months
+C0731,male,1,Yes,No,53,Yes,dsl,month-to-month,Yes,credit card,1701.23,90067.53,Yes,49-72 Months
+C0732,female,0,Yes,No,31,Yes,fiber optic,one year,Yes,electronic check,1655.7,51241.88,No,25-48 Months
+C0733,male,0,Yes,No,67,Yes,dsl,month-to-month,Yes,credit card,1138.97,76333.76,No,49-72 Months
+C0734,male,0,No,Yes,56,Yes,fiber optic,two year,No,mailed check,1147.69,64379.13,No,49-72 Months
+C0735,male,0,No,No,15,Yes,dsl,one year,Yes,bank transfer,509.3,7499.59,No,13-24 Months
+C0736,female,0,Yes,No,49,Yes,dsl,two year,No,bank transfer,1761.19,86274.56,No,49-72 Months
+C0737,male,0,Yes,No,53,Yes,dsl,month-to-month,No,mailed check,645.28,34170.53,No,49-72 Months
+C0738,female,0,No,No,25,Yes,fiber optic,month-to-month,No,credit card,1373.34,34383.66,Yes,25-48 Months
+C0739,male,0,No,Yes,54,Yes,dsl,month-to-month,Yes,electronic check,1483.48,80106.88,Yes,49-72 Months
+C0740,male,0,No,No,65,Yes,dsl,month-to-month,No,electronic check,933.88,60636.69,No,49-72 Months
+C0741,female,0,No,No,59,Yes,no,month-to-month,Yes,credit card,477.35,28313.48,Yes,49-72 Months
+C0742,male,0,No,No,55,Yes,dsl,month-to-month,No,bank transfer,542.89,29794.24,Yes,49-72 Months
+C0743,male,0,Yes,No,46,Yes,fiber optic,month-to-month,No,credit card,1577.57,72533.17,No,25-48 Months
+C0744,female,0,No,No,20,Yes,dsl,month-to-month,Yes,mailed check,1041.67,20642.42,Yes,13-24 Months
+C0745,female,0,Yes,No,58,Yes,fiber optic,month-to-month,Yes,electronic check,389.71,22517.54,Yes,49-72 Months
+C0746,male,0,Yes,No,27,Yes,dsl,month-to-month,No,electronic check,1361.38,36819.19,Yes,25-48 Months
+C0747,female,1,Yes,No,39,Yes,fiber optic,month-to-month,Yes,mailed check,637.77,24911.5,No,25-48 Months
+C0748,female,1,Yes,No,23,Yes,dsl,one year,No,electronic check,1608.41,37065.37,No,13-24 Months
+C0749,male,0,Yes,Yes,23,Yes,no,month-to-month,No,credit card,629.84,14552.44,No,13-24 Months
+C0750,female,0,Yes,No,12,Yes,no,month-to-month,No,electronic check,460.42,5775.57,Yes,0-12 Months
+C0751,female,0,Yes,No,70,Yes,dsl,month-to-month,No,credit card,381.53,26617.36,Yes,49-72 Months
+C0752,female,0,No,Yes,11,Yes,dsl,one year,Yes,electronic check,1042.87,11277.24,No,0-12 Months
+C0753,male,0,No,No,7,Yes,dsl,month-to-month,No,electronic check,948.64,6514.41,Yes,0-12 Months
+C0754,male,0,Yes,No,68,Yes,fiber optic,one year,No,mailed check,1414.53,96103.6,No,49-72 Months
+C0755,female,1,No,No,40,Yes,dsl,two year,Yes,electronic check,970.13,38688.28,No,25-48 Months
+C0756,female,1,Yes,No,32,Yes,no,month-to-month,Yes,mailed check,682.91,21864.36,No,25-48 Months
+C0757,male,0,No,Yes,54,Yes,fiber optic,two year,Yes,mailed check,655.57,35551.1,No,49-72 Months
+C0758,male,0,No,Yes,28,Yes,fiber optic,one year,Yes,bank transfer,681.13,19256.4,No,25-48 Months
+C0759,female,0,No,No,10,Yes,fiber optic,month-to-month,Yes,bank transfer,1688.16,16942.12,Yes,0-12 Months
+C0760,female,0,Yes,No,53,Yes,no,month-to-month,Yes,electronic check,405.87,21768.06,No,49-72 Months
+C0761,male,1,No,No,13,Yes,dsl,one year,No,electronic check,1781.67,23118.95,No,13-24 Months
+C0762,male,0,Yes,No,40,Yes,fiber optic,two year,Yes,electronic check,756.73,30073.3,No,25-48 Months
+C0763,female,0,No,Yes,69,Yes,dsl,month-to-month,Yes,electronic check,387.0,26829.38,No,49-72 Months
+C0764,female,0,No,Yes,68,Yes,no,month-to-month,Yes,electronic check,535.47,36191.33,No,49-72 Months
+C0765,female,0,Yes,No,26,Yes,fiber optic,one year,No,mailed check,340.54,8763.44,No,25-48 Months
+C0766,female,0,Yes,Yes,57,Yes,fiber optic,month-to-month,Yes,bank transfer,1474.55,84111.76,Yes,49-72 Months
+C0767,female,0,Yes,No,45,Yes,dsl,one year,Yes,mailed check,1044.46,46988.41,No,25-48 Months
+C0768,male,0,No,No,35,No,no,month-to-month,No,mailed check,672.33,23508.64,No,25-48 Months
+C0769,male,0,No,No,11,Yes,fiber optic,one year,Yes,mailed check,1276.18,13896.29,Yes,0-12 Months
+C0770,male,0,No,No,28,Yes,fiber optic,two year,Yes,bank transfer,1227.5,34368.7,No,25-48 Months
+C0771,male,0,No,Yes,47,Yes,no,one year,No,mailed check,1606.8,75640.04,No,25-48 Months
+C0772,female,0,No,Yes,72,No,fiber optic,one year,No,electronic check,1739.95,125278.8,No,49-72 Months
+C0773,female,0,No,Yes,1,Yes,fiber optic,one year,No,mailed check,1305.06,1205.43,Yes,0-12 Months
+C0774,male,0,Yes,No,52,Yes,fiber optic,two year,No,electronic check,1517.61,78766.02,No,49-72 Months
+C0775,male,0,No,No,61,Yes,dsl,two year,Yes,mailed check,1478.26,90076.71,Yes,49-72 Months
+C0776,male,0,Yes,No,69,Yes,dsl,month-to-month,No,credit card,1011.52,69841.96,Yes,49-72 Months
+C0777,male,0,No,Yes,31,Yes,dsl,one year,Yes,mailed check,1341.91,41640.44,No,25-48 Months
+C0778,male,0,No,No,9,Yes,dsl,month-to-month,Yes,electronic check,997.13,3245.64,Yes,0-12 Months
+C0779,male,0,Yes,Yes,20,Yes,no,two year,No,bank transfer,1324.93,26233.31,No,13-24 Months
+C0780,female,0,No,No,62,Yes,fiber optic,one year,Yes,electronic check,1740.84,107982.48,No,49-72 Months
+C0781,male,0,Yes,No,64,Yes,fiber optic,month-to-month,Yes,electronic check,381.71,24321.72,Yes,49-72 Months
+C0782,female,0,No,Yes,46,Yes,fiber optic,month-to-month,No,electronic check,1545.98,71197.77,No,25-48 Months
+C0783,male,0,Yes,No,9,No,fiber optic,month-to-month,Yes,credit card,1696.12,15174.35,No,0-12 Months
+C0784,male,0,Yes,Yes,9,Yes,fiber optic,one year,No,credit card,600.59,5286.76,No,0-12 Months
+C0785,female,0,No,No,35,Yes,no,month-to-month,Yes,bank transfer,963.46,33739.48,No,25-48 Months
+C0786,female,0,Yes,No,43,Yes,no,month-to-month,No,bank transfer,1588.18,68574.66,No,25-48 Months
+C0787,male,0,No,No,3,Yes,fiber optic,two year,Yes,bank transfer,1738.35,5304.93,No,0-12 Months
+C0788,male,1,Yes,No,50,Yes,dsl,one year,Yes,bank transfer,448.22,22427.35,No,49-72 Months
+C0789,male,0,Yes,No,40,Yes,fiber optic,month-to-month,Yes,bank transfer,790.96,31681.46,Yes,25-48 Months
+C0790,male,1,Yes,Yes,1,Yes,fiber optic,month-to-month,No,credit card,1332.12,1121.99,Yes,0-12 Months
+C0791,female,0,Yes,No,7,Yes,fiber optic,two year,Yes,bank transfer,593.42,4019.26,No,0-12 Months
+C0792,male,1,Yes,No,33,Yes,fiber optic,one year,No,electronic check,753.39,24560.56,Yes,25-48 Months
+C0793,male,1,No,Yes,53,Yes,fiber optic,one year,Yes,mailed check,286.1,15370.88,No,49-72 Months
+C0794,male,1,No,No,60,Yes,dsl,month-to-month,No,credit card,487.96,29460.89,No,49-72 Months
+C0795,male,0,No,No,32,Yes,dsl,month-to-month,No,mailed check,1121.61,35938.66,Yes,25-48 Months
+C0796,male,0,Yes,No,22,Yes,fiber optic,month-to-month,No,electronic check,1262.29,27786.59,Yes,13-24 Months
+C0797,male,0,No,Yes,70,Yes,dsl,one year,Yes,credit card,1255.81,87720.51,No,49-72 Months
+C0798,female,0,No,No,34,Yes,dsl,month-to-month,No,bank transfer,1456.46,49493.32,No,25-48 Months
+C0799,male,0,No,No,23,Yes,fiber optic,month-to-month,No,bank transfer,893.69,20769.96,No,13-24 Months
+C0800,male,1,No,Yes,32,Yes,fiber optic,one year,No,mailed check,673.91,21580.89,No,25-48 Months
+C0801,female,0,Yes,Yes,1,Yes,dsl,two year,Yes,electronic check,274.15,206.39,No,0-12 Months
+C0802,female,0,Yes,No,22,Yes,fiber optic,one year,No,mailed check,570.28,12335.19,No,13-24 Months
+C0803,male,0,No,No,38,Yes,fiber optic,month-to-month,No,mailed check,734.2,28065.24,Yes,25-48 Months
+C0804,male,0,No,No,67,Yes,dsl,month-to-month,No,credit card,526.22,35248.33,No,49-72 Months
+C0805,female,0,No,Yes,54,Yes,fiber optic,month-to-month,Yes,mailed check,281.22,14975.07,No,49-72 Months
+C0806,male,0,No,No,57,Yes,no,month-to-month,No,electronic check,394.04,22349.37,No,49-72 Months
+C0807,female,0,No,No,40,Yes,fiber optic,month-to-month,No,mailed check,1282.45,51144.7,Yes,25-48 Months
+C0808,male,1,Yes,No,8,Yes,fiber optic,month-to-month,Yes,credit card,1225.86,9791.07,Yes,0-12 Months
+C0809,male,0,Yes,No,29,No,dsl,one year,No,mailed check,1700.31,49333.87,No,25-48 Months
+C0810,female,0,Yes,Yes,72,Yes,no,two year,No,mailed check,1387.16,99815.13,No,49-72 Months
+C0811,male,0,No,Yes,4,Yes,fiber optic,two year,Yes,bank transfer,1130.02,4613.33,No,0-12 Months
+C0812,female,1,No,No,64,No,no,month-to-month,No,bank transfer,363.21,23254.9,No,49-72 Months
+C0813,female,1,Yes,No,50,Yes,fiber optic,month-to-month,No,mailed check,1124.31,56342.98,No,49-72 Months
+C0814,male,0,No,Yes,21,No,dsl,month-to-month,Yes,credit card,345.47,7212.01,No,13-24 Months
+C0815,male,0,No,No,57,No,dsl,month-to-month,No,bank transfer,917.87,52684.03,No,49-72 Months
+C0816,male,0,No,No,61,Yes,fiber optic,month-to-month,Yes,electronic check,854.9,52081.16,Yes,49-72 Months
+C0817,female,0,No,No,4,Yes,fiber optic,month-to-month,Yes,mailed check,913.11,3544.04,Yes,0-12 Months
+C0818,male,0,No,No,8,Yes,dsl,one year,No,credit card,683.73,5346.68,No,0-12 Months
+C0819,female,0,No,No,48,Yes,fiber optic,month-to-month,No,mailed check,1313.04,63000.61,No,25-48 Months
+C0820,female,0,Yes,No,72,Yes,no,two year,No,bank transfer,1453.46,104442.78,No,49-72 Months
+C0821,female,0,Yes,No,2,Yes,fiber optic,month-to-month,No,bank transfer,1441.2,2917.75,Yes,0-12 Months
+C0822,male,0,No,No,48,Yes,fiber optic,month-to-month,Yes,bank transfer,1223.02,58476.32,Yes,25-48 Months
+C0823,male,1,Yes,No,10,Yes,dsl,month-to-month,No,credit card,1084.43,10863.7,No,0-12 Months
+C0824,female,0,No,Yes,47,Yes,fiber optic,month-to-month,Yes,electronic check,298.18,13852.31,No,25-48 Months
+C0825,female,0,No,No,45,Yes,dsl,month-to-month,Yes,bank transfer,1370.55,61628.99,No,25-48 Months
+C0826,male,0,No,Yes,7,Yes,no,two year,Yes,bank transfer,994.72,7035.58,No,0-12 Months
+C0827,female,1,Yes,No,50,Yes,fiber optic,month-to-month,No,electronic check,669.65,33758.98,Yes,49-72 Months
+C0828,male,0,No,Yes,65,No,fiber optic,month-to-month,No,bank transfer,758.16,49151.04,Yes,49-72 Months
+C0829,female,0,Yes,No,63,Yes,dsl,one year,Yes,electronic check,1700.19,107093.93,No,49-72 Months
+C0830,female,0,No,Yes,3,No,dsl,month-to-month,No,mailed check,1217.76,3566.43,No,0-12 Months
+C0831,male,0,No,No,18,Yes,fiber optic,one year,No,mailed check,987.66,17673.5,No,13-24 Months
+C0832,male,1,No,No,18,Yes,fiber optic,month-to-month,No,electronic check,1212.43,21737.94,Yes,13-24 Months
+C0833,male,0,No,Yes,33,Yes,fiber optic,two year,No,credit card,891.3,29511.79,No,25-48 Months
+C0834,male,0,Yes,No,11,Yes,no,month-to-month,Yes,electronic check,878.78,9608.01,No,0-12 Months
+C0835,male,0,Yes,No,62,Yes,no,month-to-month,Yes,mailed check,599.98,37468.68,Yes,49-72 Months
+C0836,female,0,No,No,56,Yes,no,one year,No,credit card,831.77,46629.04,No,49-72 Months
+C0837,male,0,Yes,Yes,59,Yes,dsl,two year,No,credit card,1312.67,77326.33,No,49-72 Months
+C0838,male,0,Yes,No,15,Yes,fiber optic,month-to-month,No,electronic check,311.91,4634.65,Yes,13-24 Months
+C0839,male,0,No,No,2,Yes,no,one year,Yes,mailed check,1382.29,2668.36,Yes,0-12 Months
+C0840,male,0,No,No,66,Yes,fiber optic,month-to-month,No,bank transfer,688.62,45544.93,Yes,49-72 Months
+C0841,female,1,No,No,21,Yes,dsl,month-to-month,Yes,credit card,1307.97,27270.72,No,13-24 Months
+C0842,male,1,No,Yes,48,Yes,fiber optic,month-to-month,Yes,credit card,1246.22,59657.65,Yes,25-48 Months
+C0843,female,1,Yes,Yes,66,Yes,fiber optic,one year,Yes,bank transfer,1261.57,83192.63,No,49-72 Months
+C0844,male,0,No,No,3,Yes,fiber optic,month-to-month,Yes,electronic check,1192.6,3659.75,Yes,0-12 Months
+C0845,female,0,No,Yes,1,Yes,no,one year,Yes,credit card,1636.61,1784.58,No,0-12 Months
+C0846,female,0,Yes,Yes,1,Yes,fiber optic,month-to-month,No,electronic check,1037.93,1203.6,Yes,0-12 Months
+C0847,male,1,Yes,No,12,Yes,fiber optic,two year,Yes,electronic check,1385.09,16684.66,No,0-12 Months
+C0848,male,0,No,Yes,4,Yes,fiber optic,two year,Yes,bank transfer,1343.45,5363.85,No,0-12 Months
+C0849,female,0,No,Yes,60,Yes,fiber optic,month-to-month,Yes,bank transfer,616.21,37067.96,Yes,49-72 Months
+C0850,female,0,Yes,No,44,No,dsl,month-to-month,No,electronic check,689.12,30183.94,No,25-48 Months
+C0851,male,0,Yes,No,71,Yes,fiber optic,month-to-month,No,electronic check,907.23,64191.97,Yes,49-72 Months
+C0852,female,1,Yes,No,58,Yes,fiber optic,two year,No,bank transfer,680.43,39517.34,No,49-72 Months
+C0853,female,0,Yes,No,70,Yes,dsl,month-to-month,No,mailed check,818.45,57170.82,No,49-72 Months
+C0854,female,0,Yes,No,18,Yes,dsl,month-to-month,Yes,bank transfer,855.99,15399.98,Yes,13-24 Months
+C0855,male,0,No,Yes,21,Yes,no,month-to-month,Yes,mailed check,1085.99,22820.15,Yes,13-24 Months
+C0856,female,0,No,No,62,Yes,dsl,one year,Yes,bank transfer,590.83,36661.23,No,49-72 Months
+C0857,female,0,Yes,Yes,18,Yes,fiber optic,month-to-month,Yes,mailed check,1496.65,27052.23,Yes,13-24 Months
+C0858,female,1,Yes,Yes,5,No,fiber optic,month-to-month,No,mailed check,928.18,4740.75,Yes,0-12 Months
+C0859,male,0,Yes,No,49,Yes,fiber optic,two year,Yes,mailed check,1344.68,65912.72,Yes,49-72 Months
+C0860,female,0,No,No,58,Yes,dsl,month-to-month,No,bank transfer,376.24,21768.88,Yes,49-72 Months
+C0861,male,0,No,No,70,Yes,fiber optic,two year,Yes,bank transfer,978.45,68504.43,No,49-72 Months
+C0862,male,0,Yes,Yes,67,Yes,fiber optic,month-to-month,Yes,bank transfer,293.74,19609.03,No,49-72 Months
+C0863,male,0,Yes,Yes,9,Yes,fiber optic,month-to-month,No,bank transfer,1297.66,11655.37,Yes,0-12 Months
+C0864,male,0,No,No,56,Yes,dsl,two year,Yes,electronic check,782.75,44148.18,No,49-72 Months
+C0865,female,1,No,No,61,Yes,fiber optic,one year,No,credit card,1721.34,105023.6,No,49-72 Months
+C0866,female,0,No,No,51,Yes,fiber optic,one year,No,bank transfer,752.39,38425.92,Yes,49-72 Months
+C0867,male,0,Yes,Yes,60,Yes,dsl,month-to-month,No,bank transfer,1123.9,67349.34,Yes,49-72 Months
+C0868,male,0,No,Yes,61,Yes,dsl,month-to-month,Yes,credit card,648.95,39708.36,Yes,49-72 Months
+C0869,male,0,No,No,33,Yes,dsl,month-to-month,No,credit card,1211.17,40059.84,No,25-48 Months
+C0870,female,0,No,No,3,Yes,dsl,month-to-month,No,bank transfer,973.92,3013.84,No,0-12 Months
+C0871,male,1,Yes,Yes,33,Yes,dsl,month-to-month,Yes,credit card,824.47,27233.3,No,25-48 Months
+C0872,male,0,No,Yes,15,Yes,no,month-to-month,No,mailed check,465.72,7109.9,Yes,13-24 Months
+C0873,female,1,Yes,Yes,9,Yes,fiber optic,month-to-month,No,bank transfer,422.86,3958.34,No,0-12 Months
+C0874,female,0,No,Yes,9,Yes,fiber optic,month-to-month,Yes,mailed check,435.81,3956.26,Yes,0-12 Months
+C0875,male,0,No,No,51,Yes,no,month-to-month,No,bank transfer,1698.51,86610.26,No,49-72 Months
+C0876,male,0,No,Yes,37,Yes,dsl,month-to-month,No,electronic check,889.08,33003.31,No,25-48 Months
+C0877,male,0,No,No,39,Yes,fiber optic,two year,Yes,credit card,252.99,9758.11,No,25-48 Months
+C0878,female,1,Yes,No,54,Yes,no,one year,No,electronic check,1627.04,87774.0,No,49-72 Months
+C0879,female,0,No,No,40,Yes,fiber optic,month-to-month,No,bank transfer,280.97,11232.4,Yes,25-48 Months
+C0880,male,0,Yes,No,46,Yes,fiber optic,one year,Yes,electronic check,898.81,41136.3,No,25-48 Months
+C0881,male,0,Yes,Yes,7,Yes,fiber optic,two year,Yes,electronic check,1362.09,9633.94,Yes,0-12 Months
+C0882,male,1,No,Yes,62,No,dsl,month-to-month,No,credit card,1667.63,103277.51,No,49-72 Months
+C0883,male,0,No,No,33,Yes,fiber optic,month-to-month,Yes,credit card,1354.97,44657.43,No,25-48 Months
+C0884,female,0,Yes,No,12,Yes,no,month-to-month,No,electronic check,868.62,10397.85,Yes,0-12 Months
+C0885,male,0,No,Yes,59,Yes,no,month-to-month,No,electronic check,1660.39,97967.72,No,49-72 Months
+C0886,female,1,No,No,53,Yes,dsl,one year,No,credit card,310.95,16439.11,No,49-72 Months
+C0887,male,0,Yes,Yes,4,Yes,fiber optic,two year,Yes,credit card,1779.68,7110.64,Yes,0-12 Months
+C0888,female,0,No,Yes,14,Yes,dsl,month-to-month,Yes,electronic check,1566.56,21924.68,No,13-24 Months
+C0889,male,1,No,No,2,Yes,no,one year,Yes,bank transfer,1589.84,3126.04,No,0-12 Months
+C0890,female,0,Yes,No,20,Yes,dsl,month-to-month,No,mailed check,644.9,12805.22,No,13-24 Months
+C0891,male,0,No,No,8,Yes,no,one year,Yes,bank transfer,370.81,3096.26,Yes,0-12 Months
+C0892,male,0,No,No,52,Yes,fiber optic,one year,Yes,mailed check,1278.14,66210.75,No,49-72 Months
+C0893,male,0,No,Yes,38,Yes,dsl,month-to-month,Yes,electronic check,1049.58,39859.35,Yes,25-48 Months
+C0894,female,0,No,Yes,71,Yes,dsl,month-to-month,No,mailed check,1060.91,75268.34,Yes,49-72 Months
+C0895,male,0,No,No,54,Yes,fiber optic,one year,No,bank transfer,1683.16,90940.89,No,49-72 Months
+C0896,male,0,No,No,45,Yes,dsl,two year,No,credit card,1211.13,54326.33,No,25-48 Months
+C0897,female,0,No,No,37,Yes,fiber optic,month-to-month,Yes,electronic check,732.15,27029.58,Yes,25-48 Months
+C0898,female,0,No,Yes,4,Yes,no,month-to-month,Yes,credit card,770.1,3068.12,Yes,0-12 Months
+C0899,female,0,No,No,6,Yes,fiber optic,month-to-month,Yes,bank transfer,456.92,2869.93,No,0-12 Months
+C0900,male,0,No,No,45,Yes,fiber optic,one year,Yes,credit card,548.09,24703.91,No,25-48 Months
+C0901,male,0,No,No,1,Yes,fiber optic,one year,Yes,credit card,472.19,28065.24,No,0-12 Months
+C0902,male,0,No,No,4,No,dsl,one year,No,electronic check,1505.95,5965.3,Yes,0-12 Months
+C0903,male,0,No,No,16,Yes,no,one year,Yes,electronic check,1242.55,19987.13,Yes,13-24 Months
+C0904,female,0,No,No,64,Yes,dsl,two year,Yes,credit card,1072.03,68465.83,No,49-72 Months
+C0905,female,0,Yes,No,34,No,dsl,two year,No,electronic check,830.27,28219.74,No,25-48 Months
+C0906,female,0,Yes,Yes,52,Yes,dsl,month-to-month,No,electronic check,1286.17,66879.75,No,49-72 Months
+C0907,female,1,No,No,30,Yes,no,one year,Yes,mailed check,1410.0,42253.71,No,25-48 Months
+C0908,male,0,No,No,13,Yes,dsl,month-to-month,No,credit card,1615.91,21330.32,Yes,13-24 Months
+C0909,female,0,Yes,No,27,Yes,no,month-to-month,Yes,credit card,997.88,26893.23,No,25-48 Months
+C0910,female,0,No,No,7,Yes,fiber optic,two year,No,bank transfer,1520.82,10699.71,No,0-12 Months
+C0911,female,0,Yes,No,56,Yes,fiber optic,one year,Yes,electronic check,1042.52,58289.16,Yes,49-72 Months
+C0912,female,0,Yes,Yes,14,Yes,no,two year,Yes,mailed check,885.52,12460.61,No,13-24 Months
+C0913,male,0,Yes,No,28,Yes,fiber optic,month-to-month,No,bank transfer,1591.42,44664.25,Yes,25-48 Months
+C0914,male,1,Yes,No,71,Yes,no,month-to-month,Yes,electronic check,748.88,53099.92,No,49-72 Months
+C0915,male,0,No,No,43,Yes,dsl,month-to-month,Yes,bank transfer,863.66,37130.82,Yes,25-48 Months
+C0916,female,0,No,No,34,Yes,fiber optic,month-to-month,Yes,electronic check,722.61,24461.31,No,25-48 Months
+C0917,male,0,Yes,No,40,Yes,fiber optic,month-to-month,No,mailed check,1053.99,42022.27,No,25-48 Months
+C0918,male,0,Yes,Yes,57,Yes,fiber optic,month-to-month,No,electronic check,1094.52,62512.06,No,49-72 Months
+C0919,male,1,Yes,No,19,Yes,no,month-to-month,Yes,bank transfer,1173.71,22234.01,No,13-24 Months
+C0920,male,0,No,No,46,Yes,no,two year,No,credit card,817.28,37305.25,No,25-48 Months
+C0921,female,0,Yes,No,63,Yes,fiber optic,month-to-month,Yes,electronic check,587.65,37233.79,Yes,49-72 Months
+C0922,female,0,Yes,No,42,Yes,fiber optic,month-to-month,No,credit card,1593.61,66835.37,Yes,25-48 Months
+C0923,female,0,Yes,No,33,Yes,fiber optic,one year,Yes,bank transfer,786.3,25918.34,No,25-48 Months
+C0924,male,0,Yes,No,11,Yes,fiber optic,month-to-month,Yes,credit card,1680.56,18683.07,No,0-12 Months
+C0925,male,0,No,No,18,Yes,fiber optic,two year,Yes,credit card,571.4,10268.19,No,13-24 Months
+C0926,male,0,No,Yes,69,Yes,fiber optic,one year,Yes,electronic check,1118.09,77128.61,No,49-72 Months
+C0927,female,0,Yes,Yes,39,Yes,dsl,month-to-month,Yes,bank transfer,1081.75,42040.87,Yes,25-48 Months
+C0928,female,0,Yes,No,22,No,dsl,one year,Yes,bank transfer,1534.4,33560.62,No,13-24 Months
+C0929,male,0,No,Yes,31,Yes,fiber optic,one year,Yes,electronic check,465.22,14401.85,No,25-48 Months
+C0930,male,0,Yes,No,42,Yes,fiber optic,one year,No,mailed check,1660.4,69780.34,No,25-48 Months
+C0931,male,0,No,Yes,39,Yes,no,two year,Yes,credit card,973.71,38011.35,No,25-48 Months
+C0932,female,0,No,No,51,Yes,fiber optic,one year,Yes,bank transfer,1158.47,59024.22,No,49-72 Months
+C0933,male,0,Yes,Yes,19,Yes,dsl,one year,No,mailed check,1040.76,19776.87,No,13-24 Months
+C0934,female,1,No,Yes,47,No,dsl,month-to-month,Yes,mailed check,305.84,14154.01,Yes,25-48 Months
+C0935,male,0,No,No,32,Yes,dsl,one year,No,credit card,1020.49,32710.9,No,25-48 Months
+C0936,male,0,Yes,No,68,No,no,two year,No,mailed check,558.5,37997.37,No,49-72 Months
+C0937,female,0,No,Yes,12,Yes,dsl,one year,No,electronic check,781.17,9610.88,No,0-12 Months
+C0938,female,0,No,Yes,11,Yes,fiber optic,one year,No,bank transfer,1256.11,13818.11,No,0-12 Months
+C0939,female,1,No,Yes,34,Yes,no,month-to-month,No,credit card,921.43,31215.5,No,25-48 Months
+C0940,male,0,No,No,37,No,no,one year,Yes,electronic check,294.49,10890.04,No,25-48 Months
+C0941,male,0,No,Yes,50,Yes,dsl,two year,No,mailed check,363.21,18121.16,No,49-72 Months
+C0942,female,1,No,No,30,Yes,dsl,month-to-month,No,mailed check,537.77,28065.24,Yes,25-48 Months
+C0943,female,0,No,No,66,Yes,dsl,month-to-month,No,electronic check,545.87,36030.65,No,49-72 Months
+C0944,male,0,Yes,No,35,Yes,dsl,month-to-month,Yes,bank transfer,1192.87,41599.26,No,25-48 Months
+C0945,female,0,No,No,10,Yes,dsl,month-to-month,Yes,mailed check,525.61,5059.81,Yes,0-12 Months
+C0946,female,0,Yes,Yes,9,Yes,fiber optic,one year,Yes,electronic check,1616.67,14581.58,No,0-12 Months
+C0947,female,0,No,No,71,Yes,no,month-to-month,No,mailed check,475.13,33900.2,No,49-72 Months
+C0948,male,0,No,No,10,Yes,fiber optic,month-to-month,Yes,credit card,391.25,3922.02,No,0-12 Months
+C0949,female,0,Yes,Yes,69,Yes,fiber optic,one year,No,credit card,1607.41,111008.89,No,49-72 Months
+C0950,female,0,No,No,21,Yes,dsl,one year,Yes,bank transfer,707.76,14984.5,No,13-24 Months
+C0951,male,0,No,No,7,Yes,fiber optic,one year,Yes,mailed check,909.41,6397.89,Yes,0-12 Months
+C0952,male,0,Yes,No,22,Yes,fiber optic,one year,No,credit card,1736.49,38105.04,No,13-24 Months
+C0953,female,0,No,No,45,Yes,no,one year,No,electronic check,1613.77,72643.09,No,25-48 Months
+C0954,male,0,No,Yes,31,No,no,one year,No,bank transfer,1258.12,39146.57,No,25-48 Months
+C0955,male,0,No,No,57,Yes,dsl,one year,No,bank transfer,356.86,20404.61,No,49-72 Months
+C0956,male,0,Yes,No,44,Yes,dsl,month-to-month,No,bank transfer,1169.68,51555.71,Yes,25-48 Months
+C0957,female,0,No,No,29,Yes,dsl,one year,No,electronic check,1783.07,51653.52,No,25-48 Months
+C0958,female,0,No,Yes,46,Yes,fiber optic,month-to-month,Yes,bank transfer,1717.72,78990.84,Yes,25-48 Months
+C0959,female,0,Yes,Yes,70,Yes,no,month-to-month,No,bank transfer,314.3,21986.75,No,49-72 Months
+C0960,female,0,No,No,30,Yes,fiber optic,month-to-month,No,credit card,863.75,25906.34,No,25-48 Months
+C0961,female,0,No,Yes,12,Yes,fiber optic,two year,No,electronic check,739.08,9009.11,No,0-12 Months
+C0962,male,0,No,Yes,30,Yes,fiber optic,one year,No,bank transfer,451.08,13250.74,Yes,25-48 Months
+C0963,male,0,Yes,No,61,Yes,dsl,month-to-month,No,credit card,1326.94,80947.0,No,49-72 Months
+C0964,male,0,No,No,16,Yes,dsl,one year,Yes,mailed check,674.46,10781.82,No,13-24 Months
+C0965,male,0,No,Yes,69,Yes,fiber optic,month-to-month,No,bank transfer,784.54,53968.68,Yes,49-72 Months
+C0966,male,1,Yes,No,43,Yes,fiber optic,one year,No,electronic check,390.06,16853.19,Yes,25-48 Months
+C0967,female,0,Yes,No,44,Yes,fiber optic,two year,Yes,bank transfer,1021.85,44874.46,No,25-48 Months
+C0968,male,0,No,No,23,Yes,dsl,one year,No,bank transfer,495.16,11345.84,No,13-24 Months
+C0969,male,1,No,Yes,67,No,fiber optic,one year,No,electronic check,919.74,61844.43,Yes,49-72 Months
+C0970,female,1,Yes,Yes,3,Yes,dsl,month-to-month,No,electronic check,472.18,1537.74,Yes,0-12 Months
+C0971,male,0,No,No,22,Yes,no,month-to-month,No,bank transfer,1628.47,35895.28,No,13-24 Months
+C0972,female,0,No,Yes,31,Yes,dsl,two year,Yes,electronic check,474.72,14762.01,No,25-48 Months
+C0973,female,1,Yes,No,35,Yes,dsl,one year,No,mailed check,1058.93,37042.79,No,25-48 Months
+C0974,female,0,No,Yes,35,Yes,fiber optic,month-to-month,No,electronic check,555.32,19676.13,No,25-48 Months
+C0975,female,0,No,No,11,Yes,fiber optic,month-to-month,Yes,credit card,368.36,4148.22,Yes,0-12 Months
+C0976,male,0,Yes,No,17,Yes,fiber optic,month-to-month,No,bank transfer,563.58,9490.91,Yes,13-24 Months
+C0977,female,0,Yes,No,7,Yes,fiber optic,month-to-month,Yes,credit card,334.9,2176.29,Yes,0-12 Months
+C0978,male,0,Yes,No,42,No,no,month-to-month,No,electronic check,366.07,15442.96,Yes,25-48 Months
+C0979,female,0,No,No,26,Yes,fiber optic,month-to-month,No,electronic check,1014.9,26380.7,No,25-48 Months
+C0980,female,0,Yes,No,41,Yes,fiber optic,two year,No,bank transfer,1260.31,51501.24,No,25-48 Months
+C0981,female,0,No,No,43,Yes,fiber optic,month-to-month,No,bank transfer,385.38,16622.77,No,25-48 Months
+C0982,male,0,Yes,No,51,Yes,dsl,month-to-month,Yes,credit card,933.58,47580.3,Yes,49-72 Months
+C0983,female,1,Yes,No,40,Yes,fiber optic,month-to-month,Yes,credit card,1150.93,46100.88,Yes,25-48 Months
+C0984,female,0,Yes,No,47,Yes,dsl,month-to-month,No,credit card,613.05,28866.36,Yes,25-48 Months
+C0985,female,1,No,No,43,Yes,fiber optic,two year,Yes,electronic check,826.72,35475.97,No,25-48 Months
+C0986,male,1,No,Yes,47,Yes,dsl,month-to-month,No,mailed check,361.34,17058.92,Yes,25-48 Months
+C0987,female,0,Yes,No,45,Yes,no,one year,Yes,credit card,491.2,22044.25,No,25-48 Months
+C0988,male,0,No,No,23,No,fiber optic,two year,No,bank transfer,973.47,22337.86,No,13-24 Months
+C0989,male,0,No,No,18,Yes,no,month-to-month,No,credit card,1685.19,30269.55,No,13-24 Months
+C0990,female,1,No,No,57,Yes,fiber optic,one year,Yes,bank transfer,1794.21,102405.69,Yes,49-72 Months
+C0991,male,0,Yes,No,25,Yes,dsl,two year,Yes,electronic check,1768.41,44176.58,Yes,25-48 Months
+C0992,male,0,No,No,40,Yes,fiber optic,month-to-month,Yes,mailed check,905.78,36395.89,No,25-48 Months
+C0993,female,1,No,Yes,15,Yes,fiber optic,month-to-month,No,credit card,375.05,5839.77,No,13-24 Months
+C0994,female,0,No,No,32,Yes,fiber optic,two year,Yes,bank transfer,751.54,23960.63,No,25-48 Months
+C0995,male,1,No,Yes,39,Yes,fiber optic,two year,No,electronic check,618.46,23769.42,No,25-48 Months
+C0996,male,0,Yes,No,46,No,fiber optic,month-to-month,Yes,electronic check,271.9,12632.74,Yes,25-48 Months
+C0997,male,0,No,Yes,38,Yes,no,one year,No,credit card,297.61,11268.14,No,25-48 Months
+C0998,male,0,No,No,26,Yes,fiber optic,month-to-month,No,credit card,952.45,24659.76,No,25-48 Months
+C0999,female,0,No,Yes,70,No,dsl,two year,Yes,credit card,776.48,54282.95,No,49-72 Months
+C1000,male,0,No,No,37,Yes,fiber optic,month-to-month,Yes,electronic check,529.55,19543.57,No,25-48 Months
